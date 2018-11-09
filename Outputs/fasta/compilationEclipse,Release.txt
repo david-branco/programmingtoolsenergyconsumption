@@ -1,0 +1,11 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'
+gcc -O3 -Wall -fmessage-length=0 -o fasta fasta.c
+fasta.c: In function ‘generate_And_Wrap_Pseudorandom_DNA_Sequence’:
+fasta.c:243:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel
+ 
+fasta.c: In function ‘main’:
+fasta.c:318:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+     freopen("output.txt", "w+", stdout);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'

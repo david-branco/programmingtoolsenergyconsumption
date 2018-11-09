@@ -1,0 +1,11 @@
+meteorcontest
+	Time: 0.046 - 0.089 (0.068)
+	Energy: 0.425 - 0.934 (0.683)
+	CPU: 0.393 - 0.874 (0.637)
+	Memory: 0.032 - 0.060 (0.046)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+meteorcontest	&\makecell{0.046-0.089\\48.3 \% \\(0.068)}	&\makecell{0.425-0.934\\54.5 \% \\(0.683)}	&\makecell{0.393-0.874\\55.0 \% \\(0.637)\\}	&\makecell{0.032-0.060\\46.7 \% \\(0.046)\\}	&\makecell{9.239-10.678\\13.5 \% \\(9.967)}\\\hline
+
+

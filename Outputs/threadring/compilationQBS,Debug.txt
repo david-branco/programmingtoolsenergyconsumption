@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/threadring'
+gcc -g -O0 -Wall -Wextra -pipe -fvisibility=default -fPIC -pthread -o threadring threadring.c
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/threadring'

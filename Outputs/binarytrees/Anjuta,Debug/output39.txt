@@ -1,0 +1,47 @@
+stretch tree of depth 22	 check: 8388607
+2097152	 trees of depth 4	 check: 65011712
+524288	 trees of depth 6	 check: 66584576
+131072	 trees of depth 8	 check: 66977792
+32768	 trees of depth 10	 check: 67076096
+8192	 trees of depth 12	 check: 67100672
+2048	 trees of depth 14	 check: 67106816
+512	 trees of depth 16	 check: 67108352
+128	 trees of depth 18	 check: 67108736
+32	 trees of depth 20	 check: 67108832
+long lived tree of depth 21	 check: 4194303
+
+Executable name: Source_Files/binarytrees/binarytrees
+Executable: ./Source_Files/binarytrees/binarytrees
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 52195.083862J
+PowerPlane0 (core) for core 1 energy before: 173226.867065J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 1.611267J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 15444.897583J
+
+Executing ./Source_Files/binarytrees/binarytrees
+
+Total time: 7.165351s
+Package energy after: 52324.375305  (129.291443J consumed)
+PowerPlane0 (core) for core 1 energy after: 173299.090393  (72.223328J consumed)
+PowerPlane1 (on-core GPU if avail) after: 1.614014  (0.002747J consumed)
+DRAM energy after: 15450.880920  (5.983337J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

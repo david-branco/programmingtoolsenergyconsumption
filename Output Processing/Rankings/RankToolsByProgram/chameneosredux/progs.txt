@@ -1,0 +1,11 @@
+chameneosredux
+	Time: 7.706 - 9.112 (8.358)
+	Energy: 154.74 - 184.101 (166.098)
+	CPU: 149.475 - 178.231 (160.478)
+	Memory: 5.172 - 6.156 (5.620)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+chameneosredux	&\makecell{7.706-9.112\\15.4 \% \\(8.358)}	&\makecell{154.74-184.101\\15.9 \% \\(166.098)}	&\makecell{149.475-178.231\\16.1 \% \\(160.478)\\}	&\makecell{5.172-6.156\\16.0 \% \\(5.620)\\}	&\makecell{18.724-21.397\\12.5 \% \\(19.888)}\\\hline
+
+

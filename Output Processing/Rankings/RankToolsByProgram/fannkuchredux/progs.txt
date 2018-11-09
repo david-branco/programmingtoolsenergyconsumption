@@ -1,0 +1,11 @@
+fannkuchredux
+	Time: 21.918 - 58.501 (40.537)
+	Energy: 232.244 - 658.129 (443.155)
+	CPU: 217.685 - 619.299 (416.238)
+	Memory: 14.553 - 38.874 (26.917)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+fannkuchredux	&\makecell{21.918-58.501\\62.5 \% \\(40.537)}	&\makecell{232.244-658.129\\64.7 \% \\(443.155)}	&\makecell{217.685-619.299\\64.8 \% \\(416.238)\\}	&\makecell{14.553-38.874\\62.6 \% \\(26.917)\\}	&\makecell{10.273-11.293\\9.0 \% \\(10.768)}\\\hline
+
+

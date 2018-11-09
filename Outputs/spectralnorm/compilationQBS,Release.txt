@@ -1,0 +1,15 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/spectralnorm'
+gcc -O2 -Wall -Wextra -pipe -fvisibility=default -fPIC -DNDEBUG -o spectralnorm spectralnorm.c -lm
+spectralnorm.c: In function ‘mult_Av’:
+spectralnorm.c:30:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel for
+ 
+spectralnorm.c: In function ‘mult_Atv’:
+spectralnorm.c:47:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel for
+ 
+spectralnorm.c: In function ‘main’:
+spectralnorm.c:67:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+ int main(int argc, char**argv) {
+              ^~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/spectralnorm'

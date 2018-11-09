@@ -1,0 +1,516 @@
+Tools ranked with 0 decimal points
+	 Time Ranking:
+		1: sphere (19.0)
+		2: gps (21.5)
+		3: kdevelop (22.2)
+		  : cmake (22.2)
+		  : clion (22.2)
+		4: qmake (23.0)
+		5: qt (23.4)
+		6: codelite (24.5)
+		  : zinjai (24.5)
+		  : eclipse (24.5)
+		7: dialogblocks (25.5)
+		8: oracle (26.0)
+		  : netbeans (26.0)
+		9: qbs (26.5)
+		10: anjuta (30.5)
+		11: cloud9 (33.0)
+		12: codeblocks (34.0)
+		13: geany (35.0)
+
+
+	 Energy Ranking:
+		1: sphere (29.0)
+		2: gps (40.2)
+		3: kdevelop (42.5)
+		  : cmake (42.5)
+		  : clion (42.5)
+		4: qmake (43.0)
+		5: qt (44.6)
+		6: eclipse (48.0)
+		7: qbs (51.0)
+		  : codelite (51.0)
+		8: dialogblocks (52.0)
+		9: zinjai (53.0)
+		10: oracle (54.0)
+		  : netbeans (54.0)
+		11: anjuta (65.0)
+		12: codeblocks (79.0)
+		13: geany (80.0)
+		14: cloud9 (80.5)
+
+
+	 CPU Ranking:
+		1: sphere (31.0)
+		2: gps (41.0)
+		3: kdevelop (43.5)
+		  : cmake (43.5)
+		  : clion (43.5)
+		4: qmake (44.0)
+		5: qt (45.6)
+		6: eclipse (49.5)
+		7: qbs (52.0)
+		8: codelite (53.5)
+		  : zinjai (53.5)
+		9: oracle (55.0)
+		  : dialogblocks (55.0)
+		  : netbeans (55.0)
+		10: anjuta (67.5)
+		11: codeblocks (81.0)
+		12: cloud9 (82.5)
+		13: geany (84.0)
+
+
+	 Memory Ranking:
+		1: sphere (15.0)
+		2: gps (18.8)
+		3: kdevelop (20.2)
+		  : cmake (20.2)
+		  : clion (20.2)
+		4: qmake (20.7)
+		5: eclipse (21.0)
+		6: qt (21.1)
+		7: zinjai (22.0)
+		8: codelite (22.5)
+		9: oracle (23.0)
+		  : dialogblocks (23.0)
+		  : netbeans (23.0)
+		10: qbs (23.5)
+		11: anjuta (27.5)
+		12: geany (31.0)
+		  : cloud9 (31.0)
+		13: codeblocks (32.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(18.0)
+		2: gps(18.8)
+		3: kdevelop(19.0)
+		  : cmake(19.0)
+		  : clion(19.0)
+		  : qmake(19.0)
+		4: qt(19.1)
+		5: qbs(19.5)
+		  : zinjai(19.5)
+		  : dialogblocks(19.5)
+		  : eclipse(19.5)
+		6: oracle(20.0)
+		  : netbeans(20.0)
+		7: codelite(20.5)
+		8: anjuta(20.8)
+		9: cloud9(22.5)
+		10: geany(23.0)
+		  : codeblocks(23.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time (s)}} & \thead{\textbf{Total Energy (J)}} & \thead{\textbf{CPU Energy (J)}} & \thead{\textbf{Memory Energy (J)}} & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+cmake	&	3 (22.2)	&	3 (42.5)	&	3 (43.5)	&	3 (20.2)	&	3 (19.0)\\\hline
+qmake	&	4 (23.0)	&	4 (43.0)	&	4 (44.0)	&	4 (20.7)	&	3 (19.0)\\\hline
+qbs	&	9 (26.5)	&	7 (51.0)	&	7 (52.0)	&	10 (23.5)	&	5 (19.5)\\\hline
+netbeans	&	8 (26.0)	&	10 (54.0)	&	9 (55.0)	&	9 (23.0)	&	6 (20.0)\\\hline
+codeblocks	&	12 (34.0)	&	12 (79.0)	&	11 (81.0)	&	13 (32.0)	&	10 (23.0)\\\hline
+clion	&	3 (22.2)	&	3 (42.5)	&	3 (43.5)	&	3 (20.2)	&	3 (19.0)\\\hline
+codelite	&	6 (24.5)	&	7 (51.0)	&	8 (53.5)	&	8 (22.5)	&	7 (20.5)\\\hline
+eclipse	&	6 (24.5)	&	6 (48.0)	&	6 (49.5)	&	5 (21.0)	&	5 (19.5)\\\hline
+kdevelop	&	3 (22.2)	&	3 (42.5)	&	3 (43.5)	&	3 (20.2)	&	3 (19.0)\\\hline
+geany	&	13 (35.0)	&	13 (80.0)	&	13 (84.0)	&	12 (31.0)	&	10 (23.0)\\\hline
+anjuta	&	10 (30.5)	&	11 (65.0)	&	10 (67.5)	&	11 (27.5)	&	8 (20.8)\\\hline
+qt	&	5 (23.4)	&	5 (44.6)	&	5 (45.6)	&	6 (21.1)	&	4 (19.1)\\\hline
+dialogblocks	&	7 (25.5)	&	8 (52.0)	&	9 (55.0)	&	9 (23.0)	&	5 (19.5)\\\hline
+zinjai	&	6 (24.5)	&	9 (53.0)	&	8 (53.5)	&	7 (22.0)	&	5 (19.5)\\\hline
+gps	&	2 (21.5)	&	2 (40.2)	&	2 (41.0)	&	2 (18.8)	&	2 (18.8)\\\hline
+oracle	&	8 (26.0)	&	10 (54.0)	&	9 (55.0)	&	9 (23.0)	&	6 (20.0)\\\hline
+sphere	&	1 (19.0)	&	1 (29.0)	&	1 (31.0)	&	1 (15.0)	&	1 (18.0)\\\hline
+cloud9	&	11 (33.0)	&	14 (80.5)	&	12 (82.5)	&	12 (31.0)	&	9 (22.5)\\\hline
+
+
+Tools ranked with 1 decimal points
+	 Time Ranking:
+		1: sphere (33.0)
+		2: gps (38.0)
+		3: cmake (41.2)
+		  : kdevelop (41.2)
+		  : clion (41.2)
+		4: zinjai (42.0)
+		5: eclipse (43.5)
+		6: codelite (44.0)
+		7: qt (44.7)
+		8: qmake (45.3)
+		9: dialogblocks (46.0)
+		10: oracle (49.5)
+		  : netbeans (49.5)
+		11: qbs (50.5)
+		12: anjuta (57.2)
+		13: cloud9 (61.0)
+		14: geany (63.0)
+		15: codeblocks (65.0)
+
+
+	 Energy Ranking:
+		1: sphere (81.0)
+		2: gps (96.2)
+		3: cmake (101.2)
+		  : kdevelop (101.2)
+		  : clion (101.2)
+		4: qmake (105.7)
+		5: qt (107.9)
+		6: eclipse (112.5)
+		7: codelite (118.0)
+		8: zinjai (121.5)
+		9: qbs (124.5)
+		10: dialogblocks (125.5)
+		11: oracle (127.0)
+		  : netbeans (127.0)
+		12: anjuta (150.5)
+		13: geany (170.0)
+		14: cloud9 (178.5)
+		15: codeblocks (179.0)
+
+
+	 CPU Ranking:
+		1: sphere (79.0)
+		2: gps (91.5)
+		3: cmake (96.2)
+		  : kdevelop (96.2)
+		  : clion (96.2)
+		4: qmake (99.3)
+		5: qt (102.4)
+		6: eclipse (108.0)
+		7: codelite (114.0)
+		8: zinjai (116.5)
+		9: oracle (119.5)
+		  : netbeans (119.5)
+		  : qbs (119.5)
+		10: dialogblocks (120.0)
+		11: anjuta (143.0)
+		12: geany (165.0)
+		13: cloud9 (173.0)
+		14: codeblocks (174.0)
+
+
+	 Memory Ranking:
+		1: sphere (34.0)
+		2: gps (35.8)
+		3: cmake (39.8)
+		  : kdevelop (39.8)
+		  : clion (39.8)
+		4: zinjai (40.5)
+		5: eclipse (42.0)
+		6: qmake (42.3)
+		7: codelite (42.5)
+		8: qt (42.8)
+		9: dialogblocks (44.5)
+		10: oracle (47.5)
+		  : netbeans (47.5)
+		11: qbs (49.5)
+		12: anjuta (54.5)
+		13: cloud9 (55.5)
+		14: geany (59.0)
+		15: codeblocks (60.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(44.0)
+		2: gps(46.5)
+		3: cmake(46.8)
+		  : kdevelop(46.8)
+		  : clion(46.8)
+		4: qmake(47.0)
+		5: qt(47.6)
+		6: eclipse(49.0)
+		7: oracle(50.0)
+		  : netbeans(50.0)
+		  : qbs(50.0)
+		8: codelite(50.5)
+		9: dialogblocks(52.0)
+		  : anjuta(52.0)
+		10: zinjai(58.0)
+		11: codeblocks(59.0)
+		12: geany(62.0)
+		13: cloud9(63.5)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time (s)}} & \thead{\textbf{Total Energy (J)}} & \thead{\textbf{CPU Energy (J)}} & \thead{\textbf{Memory Energy (J)}} & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+cmake	&	3 (41.2)	&	3 (101.2)	&	3 (96.2)	&	3 (39.8)	&	3 (46.8)\\\hline
+qmake	&	8 (45.3)	&	4 (105.7)	&	4 (99.3)	&	6 (42.3)	&	4 (47.0)\\\hline
+qbs	&	11 (50.5)	&	9 (124.5)	&	9 (119.5)	&	11 (49.5)	&	7 (50.0)\\\hline
+netbeans	&	10 (49.5)	&	11 (127.0)	&	9 (119.5)	&	10 (47.5)	&	7 (50.0)\\\hline
+codeblocks	&	15 (65.0)	&	15 (179.0)	&	14 (174.0)	&	15 (60.0)	&	11 (59.0)\\\hline
+clion	&	3 (41.2)	&	3 (101.2)	&	3 (96.2)	&	3 (39.8)	&	3 (46.8)\\\hline
+codelite	&	6 (44.0)	&	7 (118.0)	&	7 (114.0)	&	7 (42.5)	&	8 (50.5)\\\hline
+eclipse	&	5 (43.5)	&	6 (112.5)	&	6 (108.0)	&	5 (42.0)	&	6 (49.0)\\\hline
+kdevelop	&	3 (41.2)	&	3 (101.2)	&	3 (96.2)	&	3 (39.8)	&	3 (46.8)\\\hline
+geany	&	14 (63.0)	&	13 (170.0)	&	12 (165.0)	&	14 (59.0)	&	12 (62.0)\\\hline
+anjuta	&	12 (57.2)	&	12 (150.5)	&	11 (143.0)	&	12 (54.5)	&	9 (52.0)\\\hline
+qt	&	7 (44.7)	&	5 (107.9)	&	5 (102.4)	&	8 (42.8)	&	5 (47.6)\\\hline
+dialogblocks	&	9 (46.0)	&	10 (125.5)	&	10 (120.0)	&	9 (44.5)	&	9 (52.0)\\\hline
+zinjai	&	4 (42.0)	&	8 (121.5)	&	8 (116.5)	&	4 (40.5)	&	10 (58.0)\\\hline
+gps	&	2 (38.0)	&	2 (96.2)	&	2 (91.5)	&	2 (35.8)	&	2 (46.5)\\\hline
+oracle	&	10 (49.5)	&	11 (127.0)	&	9 (119.5)	&	10 (47.5)	&	7 (50.0)\\\hline
+sphere	&	1 (33.0)	&	1 (81.0)	&	1 (79.0)	&	1 (34.0)	&	1 (44.0)\\\hline
+cloud9	&	13 (61.0)	&	14 (178.5)	&	13 (173.0)	&	13 (55.5)	&	13 (63.5)\\\hline
+
+
+Tools ranked with 2 decimal points
+	 Time Ranking:
+		1: sphere (71.0)
+		2: gps (76.5)
+		3: zinjai (87.0)
+		4: kdevelop (87.2)
+		  : cmake (87.2)
+		  : clion (87.2)
+		5: codelite (88.0)
+		6: qmake (92.7)
+		7: qt (94.0)
+		  : dialogblocks (94.0)
+		8: eclipse (96.0)
+		9: netbeans (108.0)
+		  : oracle (108.0)
+		10: qbs (109.5)
+		11: anjuta (123.0)
+		12: cloud9 (127.0)
+		13: geany (133.0)
+		14: codeblocks (137.0)
+
+
+	 Energy Ranking:
+		1: sphere (103.0)
+		2: gps (121.8)
+		3: kdevelop (128.8)
+		  : cmake (128.8)
+		  : clion (128.8)
+		4: qmake (136.7)
+		5: qt (139.2)
+		6: eclipse (139.5)
+		7: codelite (148.5)
+		8: zinjai (153.0)
+		9: dialogblocks (156.0)
+		10: netbeans (162.0)
+		  : oracle (162.0)
+		11: qbs (164.0)
+		12: anjuta (188.8)
+		13: geany (216.0)
+		14: cloud9 (223.5)
+		15: codeblocks (226.0)
+
+
+	 CPU Ranking:
+		1: sphere (106.0)
+		2: gps (123.2)
+		3: kdevelop (127.5)
+		  : cmake (127.5)
+		  : clion (127.5)
+		4: qmake (133.7)
+		5: qt (136.9)
+		6: eclipse (144.0)
+		7: codelite (151.0)
+		8: zinjai (152.5)
+		9: dialogblocks (156.0)
+		10: netbeans (158.0)
+		  : oracle (158.0)
+		11: qbs (160.5)
+		12: anjuta (189.0)
+		13: geany (214.0)
+		14: cloud9 (224.5)
+		15: codeblocks (231.0)
+
+
+	 Memory Ranking:
+		1: sphere (67.0)
+		2: gps (71.2)
+		3: codelite (80.0)
+		4: kdevelop (81.2)
+		  : cmake (81.2)
+		  : clion (81.2)
+		5: zinjai (83.0)
+		6: eclipse (86.0)
+		7: qmake (87.0)
+		8: qt (88.0)
+		9: dialogblocks (89.0)
+		10: netbeans (99.5)
+		  : oracle (99.5)
+		11: qbs (103.0)
+		12: anjuta (111.8)
+		13: cloud9 (114.0)
+		14: codeblocks (120.0)
+		15: geany (121.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(107.0)
+		2: kdevelop(109.8)
+		  : cmake(109.8)
+		  : clion(109.8)
+		3: qmake(112.3)
+		4: qt(112.7)
+		5: gps(113.5)
+		  : eclipse(113.5)
+		6: netbeans(116.0)
+		  : oracle(116.0)
+		7: qbs(119.0)
+		8: anjuta(121.8)
+		9: codelite(122.0)
+		  : dialogblocks(122.0)
+		10: zinjai(126.5)
+		11: geany(139.0)
+		12: codeblocks(143.0)
+		13: cloud9(148.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time (s)}} & \thead{\textbf{Total Energy (J)}} & \thead{\textbf{CPU Energy (J)}} & \thead{\textbf{Memory Energy (J)}} & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+cmake	&	4 (87.2)	&	3 (128.8)	&	3 (127.5)	&	4 (81.2)	&	2 (109.8)\\\hline
+qmake	&	6 (92.7)	&	4 (136.7)	&	4 (133.7)	&	7 (87.0)	&	3 (112.3)\\\hline
+qbs	&	10 (109.5)	&	11 (164.0)	&	11 (160.5)	&	11 (103.0)	&	7 (119.0)\\\hline
+netbeans	&	9 (108.0)	&	10 (162.0)	&	10 (158.0)	&	10 (99.5)	&	6 (116.0)\\\hline
+codeblocks	&	14 (137.0)	&	15 (226.0)	&	15 (231.0)	&	14 (120.0)	&	12 (143.0)\\\hline
+clion	&	4 (87.2)	&	3 (128.8)	&	3 (127.5)	&	4 (81.2)	&	2 (109.8)\\\hline
+codelite	&	5 (88.0)	&	7 (148.5)	&	7 (151.0)	&	3 (80.0)	&	9 (122.0)\\\hline
+eclipse	&	8 (96.0)	&	6 (139.5)	&	6 (144.0)	&	6 (86.0)	&	5 (113.5)\\\hline
+kdevelop	&	4 (87.2)	&	3 (128.8)	&	3 (127.5)	&	4 (81.2)	&	2 (109.8)\\\hline
+geany	&	13 (133.0)	&	13 (216.0)	&	13 (214.0)	&	15 (121.0)	&	11 (139.0)\\\hline
+anjuta	&	11 (123.0)	&	12 (188.8)	&	12 (189.0)	&	12 (111.8)	&	8 (121.8)\\\hline
+qt	&	7 (94.0)	&	5 (139.2)	&	5 (136.9)	&	8 (88.0)	&	4 (112.7)\\\hline
+dialogblocks	&	7 (94.0)	&	9 (156.0)	&	9 (156.0)	&	9 (89.0)	&	9 (122.0)\\\hline
+zinjai	&	3 (87.0)	&	8 (153.0)	&	8 (152.5)	&	5 (83.0)	&	10 (126.5)\\\hline
+gps	&	2 (76.5)	&	2 (121.8)	&	2 (123.2)	&	2 (71.2)	&	5 (113.5)\\\hline
+oracle	&	9 (108.0)	&	10 (162.0)	&	10 (158.0)	&	10 (99.5)	&	6 (116.0)\\\hline
+sphere	&	1 (71.0)	&	1 (103.0)	&	1 (106.0)	&	1 (67.0)	&	1 (107.0)\\\hline
+cloud9	&	12 (127.0)	&	14 (223.5)	&	14 (224.5)	&	13 (114.0)	&	13 (148.0)\\\hline
+
+
+Tools ranked with 3 decimal points
+	 Time Ranking:
+		1: sphere (95.0)
+		2: gps (110.0)
+		3: kdevelop (123.0)
+		  : cmake (123.0)
+		  : clion (123.0)
+		4: codelite (123.5)
+		5: zinjai (128.5)
+		6: qmake (129.3)
+		7: qt (131.9)
+		8: dialogblocks (136.0)
+		9: eclipse (137.5)
+		10: netbeans (153.5)
+		  : oracle (153.5)
+		  : qbs (153.5)
+		11: anjuta (176.8)
+		12: cloud9 (188.5)
+		13: codeblocks (200.0)
+		14: geany (201.0)
+
+
+	 Energy Ranking:
+		1: sphere (110.0)
+		2: gps (130.2)
+		3: kdevelop (137.2)
+		  : cmake (137.2)
+		  : clion (137.2)
+		4: qmake (146.3)
+		5: eclipse (148.5)
+		6: qt (149.2)
+		7: codelite (157.0)
+		8: zinjai (163.5)
+		9: dialogblocks (164.5)
+		10: netbeans (172.5)
+		  : oracle (172.5)
+		11: qbs (177.5)
+		12: anjuta (201.5)
+		13: geany (232.0)
+		14: cloud9 (237.5)
+		15: codeblocks (243.0)
+
+
+	 CPU Ranking:
+		1: sphere (110.0)
+		2: gps (132.2)
+		3: kdevelop (136.5)
+		  : cmake (136.5)
+		  : clion (136.5)
+		4: qmake (144.7)
+		5: qt (147.3)
+		6: eclipse (153.5)
+		7: codelite (159.5)
+		8: zinjai (162.5)
+		9: dialogblocks (164.5)
+		10: netbeans (169.0)
+		  : oracle (169.0)
+		11: qbs (173.0)
+		12: anjuta (201.8)
+		13: geany (231.0)
+		14: cloud9 (240.0)
+		15: codeblocks (249.0)
+
+
+	 Memory Ranking:
+		1: sphere (96.0)
+		2: gps (107.0)
+		3: kdevelop (119.0)
+		  : cmake (119.0)
+		  : clion (119.0)
+		4: codelite (123.0)
+		5: qmake (126.0)
+		6: qt (128.7)
+		7: eclipse (130.0)
+		  : zinjai (130.0)
+		8: dialogblocks (136.0)
+		9: netbeans (148.5)
+		  : oracle (148.5)
+		10: qbs (152.0)
+		11: anjuta (171.5)
+		12: cloud9 (185.0)
+		13: geany (191.0)
+		14: codeblocks (193.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(137.0)
+		2: qmake(140.7)
+		3: kdevelop(142.8)
+		  : cmake(142.8)
+		  : clion(142.8)
+		4: qt(144.9)
+		5: eclipse(145.0)
+		6: gps(147.8)
+		7: netbeans(150.5)
+		  : oracle(150.5)
+		8: qbs(155.5)
+		9: anjuta(156.2)
+		10: dialogblocks(157.0)
+		11: codelite(160.0)
+		12: zinjai(163.0)
+		13: geany(181.0)
+		14: codeblocks(187.0)
+		15: cloud9(193.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time (s)}} & \thead{\textbf{Total Energy (J)}} & \thead{\textbf{CPU Energy (J)}} & \thead{\textbf{Memory Energy (J)}} & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+cmake	&	3 (123.0)	&	3 (137.2)	&	3 (136.5)	&	3 (119.0)	&	3 (142.8)\\\hline
+qmake	&	6 (129.3)	&	4 (146.3)	&	4 (144.7)	&	5 (126.0)	&	2 (140.7)\\\hline
+qbs	&	10 (153.5)	&	11 (177.5)	&	11 (173.0)	&	10 (152.0)	&	8 (155.5)\\\hline
+netbeans	&	10 (153.5)	&	10 (172.5)	&	10 (169.0)	&	9 (148.5)	&	7 (150.5)\\\hline
+codeblocks	&	13 (200.0)	&	15 (243.0)	&	15 (249.0)	&	14 (193.0)	&	14 (187.0)\\\hline
+clion	&	3 (123.0)	&	3 (137.2)	&	3 (136.5)	&	3 (119.0)	&	3 (142.8)\\\hline
+codelite	&	4 (123.5)	&	7 (157.0)	&	7 (159.5)	&	4 (123.0)	&	11 (160.0)\\\hline
+eclipse	&	9 (137.5)	&	5 (148.5)	&	6 (153.5)	&	7 (130.0)	&	5 (145.0)\\\hline
+kdevelop	&	3 (123.0)	&	3 (137.2)	&	3 (136.5)	&	3 (119.0)	&	3 (142.8)\\\hline
+geany	&	14 (201.0)	&	13 (232.0)	&	13 (231.0)	&	13 (191.0)	&	13 (181.0)\\\hline
+anjuta	&	11 (176.8)	&	12 (201.5)	&	12 (201.8)	&	11 (171.5)	&	9 (156.2)\\\hline
+qt	&	7 (131.9)	&	6 (149.2)	&	5 (147.3)	&	6 (128.7)	&	4 (144.9)\\\hline
+dialogblocks	&	8 (136.0)	&	9 (164.5)	&	9 (164.5)	&	8 (136.0)	&	10 (157.0)\\\hline
+zinjai	&	5 (128.5)	&	8 (163.5)	&	8 (162.5)	&	7 (130.0)	&	12 (163.0)\\\hline
+gps	&	2 (110.0)	&	2 (130.2)	&	2 (132.2)	&	2 (107.0)	&	6 (147.8)\\\hline
+oracle	&	10 (153.5)	&	10 (172.5)	&	10 (169.0)	&	9 (148.5)	&	7 (150.5)\\\hline
+sphere	&	1 (95.0)	&	1 (110.0)	&	1 (110.0)	&	1 (96.0)	&	1 (137.0)\\\hline
+cloud9	&	12 (188.5)	&	14 (237.5)	&	14 (240.0)	&	12 (185.0)	&	15 (193.0)\\\hline
+
+

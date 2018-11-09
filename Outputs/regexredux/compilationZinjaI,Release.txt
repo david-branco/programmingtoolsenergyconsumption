@@ -1,0 +1,9 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'
+gcc -fshow-column -fno-diagnostics-show-caret -Wall -O2 -o regexredux regexredux.c -lpcre
+regexredux.c: In function ‘main’:
+regexredux.c:114:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+regexredux.c:121:0: warning: ignoring #pragma omp single [-Wunknown-pragmas]
+regexredux.c:131:0: warning: ignoring #pragma omp single [-Wunknown-pragmas]
+regexredux.c:175:0: warning: ignoring #pragma omp for [-Wunknown-pragmas]
+regexredux.c:200:0: warning: ignoring #pragma omp ordered [-Wunknown-pragmas]
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'

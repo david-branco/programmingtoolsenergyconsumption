@@ -1,0 +1,38 @@
+-0.169075164
+-0.169059907
+
+Executable name: Source_Files/nbody/nbody
+Executable: ./Source_Files/nbody/nbody
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 191477.882874J
+PowerPlane0 (core) for core 1 energy before: 111081.946228J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 1.126953J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 6673.391357J
+
+Executing ./Source_Files/nbody/nbody
+
+Total time: 24.620309s
+Package energy after: 191957.998352  (480.115479J consumed)
+PowerPlane0 (core) for core 1 energy after: 111361.799561  (279.853333J consumed)
+PowerPlane1 (on-core GPU if avail) after: 1.129883  (0.002930J consumed)
+DRAM energy after: 6689.738586  (16.347229J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

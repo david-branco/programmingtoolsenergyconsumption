@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'
+gcc -g -O0 -o knucleotide knucleotide.c
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'

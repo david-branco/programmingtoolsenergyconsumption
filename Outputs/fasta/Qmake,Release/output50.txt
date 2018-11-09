@@ -1,0 +1,36 @@
+
+Executable name: Source_Files/fasta/fasta
+Executable: ./Source_Files/fasta/fasta
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 104803.376892J
+PowerPlane0 (core) for core 1 energy before: 236014.726685J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 1.928833J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 15368.601868J
+
+Executing ./Source_Files/fasta/fasta
+
+Total time: 5.712163s
+Package energy after: 104839.927734  (36.550842J consumed)
+PowerPlane0 (core) for core 1 energy after: 236030.308411  (15.581726J consumed)
+PowerPlane1 (on-core GPU if avail) after: 1.928833  (0.000000J consumed)
+DRAM energy after: 15372.582947  (3.981079J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

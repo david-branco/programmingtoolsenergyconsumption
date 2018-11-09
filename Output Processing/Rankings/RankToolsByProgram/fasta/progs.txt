@@ -1,0 +1,11 @@
+fasta
+	Time: 6.101 - 10.848 (8.439)
+	Energy: 17.86 - 66.781 (41.991)
+	CPU: 13.612 - 59.476 (36.190)
+	Memory: 4.248 - 7.305 (5.801)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+fasta	&\makecell{6.101-10.848\\43.8 \% \\(8.439)}	&\makecell{17.86-66.781\\73.3 \% \\(41.991)}	&\makecell{13.612-59.476\\77.1 \% \\(36.190)\\}	&\makecell{4.248-7.305\\41.8 \% \\(5.801)\\}	&\makecell{2.892-6.184\\53.2 \% \\(4.622)}\\\hline
+
+

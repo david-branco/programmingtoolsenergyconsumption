@@ -1,0 +1,49 @@
+agggtaaa|tttaccct 1786
+[cgt]gggtaaa|tttaccc[acg] 6251
+a[act]ggtaaa|tttacc[agt]t 21254
+ag[act]gtaaa|tttac[agt]ct 14467
+agg[act]taaa|ttta[agt]cct 27151
+aggg[acg]aaa|ttt[cgt]ccct 7679
+agggt[cgt]aa|tt[acg]accct 7144
+agggta[cgt]a|t[acg]taccct 8038
+agggtaa[cgt]|[acg]ttaccct 10894
+
+254166745
+250000000
+136941274
+
+Executable name: Source_Files/regexredux/regexredux
+Executable: ./Source_Files/regexredux/regexredux
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 10188.141479J
+PowerPlane0 (core) for core 1 energy before: 134893.536682J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 1.698486J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 21667.910034J
+
+Executing ./Source_Files/regexredux/regexredux
+
+Total time: 13.884244s
+Package energy after: 10429.008972  (240.867493J consumed)
+PowerPlane0 (core) for core 1 energy after: 135024.245972  (130.709290J consumed)
+PowerPlane1 (on-core GPU if avail) after: 1.701660  (0.003174J consumed)
+DRAM energy after: 21679.201233  (11.291199J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

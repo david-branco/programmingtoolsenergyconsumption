@@ -1,0 +1,11 @@
+binarytrees
+	Time: 3.355 - 7.214 (5.186)
+	Energy: 40.843 - 78.631 (58.844)
+	CPU: 37.606 - 72.630 (54.286)
+	Memory: 3.231 - 6.029 (4.558)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+binarytrees	&\makecell{3.355-7.214\\53.5 \% \\(5.186)}	&\makecell{40.843-78.631\\48.1 \% \\(58.844)}	&\makecell{37.606-72.630\\48.2 \% \\(54.286)\\}	&\makecell{3.231-6.029\\46.4 \% \\(4.558)\\}	&\makecell{10.860-12.264\\11.4 \% \\(11.576)}\\\hline
+
+

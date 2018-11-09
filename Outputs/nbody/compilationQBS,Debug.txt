@@ -1,0 +1,7 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'
+gcc -g -O0 -Wall -Wextra -pipe -fvisibility=default -fPIC -o nbody nbody.c -lm
+nbody.c: In function ‘main’:
+nbody.c:151:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+ int main(int argc, char** argv)
+              ^~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'

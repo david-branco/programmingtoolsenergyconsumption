@@ -1,0 +1,17 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'
+gcc -O2 -Wall -Wextra -pipe -fvisibility=default -fPIC -DNDEBUG -o fasta fasta.c
+fasta.c: In function ‘generate_And_Wrap_Pseudorandom_DNA_Sequence’:
+fasta.c:243:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel
+ 
+fasta.c: In function ‘main’:
+fasta.c:317:36: warning: suggest braces around empty body in an ‘if’ statement [-Wempty-body]
+     if(chdir("Source_Files/fasta"));
+                                    ^
+fasta.c:310:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+ int main(int argc, char ** argv)
+              ^~~~
+fasta.c:318:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+     freopen("output.txt", "w+", stdout);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'

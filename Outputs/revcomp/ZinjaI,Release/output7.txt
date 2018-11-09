@@ -1,0 +1,36 @@
+
+Executable name: Source_Files/revcomp/revcomp
+Executable: ./Source_Files/revcomp/revcomp
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 15202.217834J
+PowerPlane0 (core) for core 1 energy before: 6768.202698J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 0.732178J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 1332.419678J
+
+Executing ./Source_Files/revcomp/revcomp
+
+Total time: 10.519940s
+Package energy after: 15246.840271  (44.622437J consumed)
+PowerPlane0 (core) for core 1 energy after: 6776.889404  (8.686707J consumed)
+PowerPlane1 (on-core GPU if avail) after: 0.732178  (0.000000J consumed)
+DRAM energy after: 1340.381042  (7.961365J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

@@ -1,0 +1,10 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'
+gcc -pipe -O2 -g -Wall -W -fPIC -o fannkuchredux fannkuchredux.c
+fannkuchredux.c: In function ‘main’:
+fannkuchredux.c:53:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+    #pragma omp parallel for \
+ 
+fannkuchredux.c:26:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+ int main(int argc, char ** argv){
+              ^~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'

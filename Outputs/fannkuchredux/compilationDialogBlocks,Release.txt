@@ -1,0 +1,7 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'
+gcc -O2 -Wall -Wno-write-strings -o fannkuchredux fannkuchredux.c
+fannkuchredux.c: In function ‘main’:
+fannkuchredux.c:53:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+    #pragma omp parallel for \
+ 
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'

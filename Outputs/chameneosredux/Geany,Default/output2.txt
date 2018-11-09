@@ -1,0 +1,65 @@
+blue + blue -> blue
+blue + red -> yellow
+blue + yellow -> red
+red + blue -> yellow
+red + red -> red
+red + yellow -> blue
+yellow + blue -> red
+yellow + red -> blue
+yellow + yellow -> yellow
+
+ blue red yellow
+58007657 zero
+31099828 zero
+30892515 zero
+ one two zero zero zero zero zero zero zero
+
+ blue red yellow red yellow blue red yellow red blue
+14415283 zero
+10216341 zero
+10190729 zero
+10323744 zero
+10181308 zero
+10110151 zero
+10233518 zero
+14225086 zero
+15009546 zero
+15094294 zero
+ one two zero zero zero zero zero zero zero
+
+
+Executable name: Source_Files/chameneosredux/chameneosredux
+Executable: ./Source_Files/chameneosredux/chameneosredux
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 145005.958313J
+PowerPlane0 (core) for core 1 energy before: 239552.332458J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 1.781128J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 18914.428894J
+
+Executing ./Source_Files/chameneosredux/chameneosredux
+
+Total time: 8.476674s
+Package energy after: 145271.008423  (265.050110J consumed)
+PowerPlane0 (core) for core 1 energy after: 239756.796509  (204.464050J consumed)
+PowerPlane1 (on-core GPU if avail) after: 1.781128  (0.000000J consumed)
+DRAM energy after: 18920.058716  (5.629822J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

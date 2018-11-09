@@ -1,0 +1,9 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'
+gcc -O3 -Wall -fmessage-length=0 -o nbody nbody.c -lm
+nbody.c: In function ‘main’:
+nbody.c:100:18: warning: ‘dx[0]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+          dx[m] = _mm_loadl_pd(dx[m], &r[i].dx[m]);
+                  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+nbody.c:100:18: warning: ‘dx[1]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+nbody.c:100:18: warning: ‘dx[2]’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'

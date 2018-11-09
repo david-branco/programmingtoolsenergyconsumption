@@ -1,0 +1,34 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'
+gcc -O2 -Wall -Wextra -pipe -fvisibility=default -fPIC -DNDEBUG -o knucleotide knucleotide.c
+knucleotide.c: In function ‘main’:
+knucleotide.c:187:39: warning: suggest braces around empty body in an ‘if’ statement [-Wempty-body]
+  if(chdir("Source_Files/knucleotide"));
+                                       ^
+knucleotide.c:213:51: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   if(polynucleotide_Capacity-polynucleotide_Length<sizeof(buffer))
+                                                   ^
+knucleotide.c:223:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+  #pragma omp parallel sections
+ 
+knucleotide.c:225:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:228:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:231:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:234:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:237:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:241:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+knucleotide.c:244:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+   #pragma omp section
+ 
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'

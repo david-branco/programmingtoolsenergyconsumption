@@ -1,0 +1,46 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'
+gcc -g -O0 -Wall -Wextra -pipe -fvisibility=default -fPIC -o regexredux regexredux.c -lpcre
+regexredux.c: In function ‘main’:
+regexredux.c:75:41: warning: suggest braces around empty body in an ‘if’ statement [-Wempty-body]
+     if(chdir("Source_Files/regexredux"));
+                                         ^
+regexredux.c:99:5: warning: missing initializer for field ‘size’ of ‘string {aka struct <anonymous>}’ [-Wmissing-field-initializers]
+     string input={malloc(16384), 16384}, sequences={malloc(16384), 16384};
+     ^~~~~~
+regexredux.c:14:19: note: ‘size’ declared here
+     int capacity, size;
+                   ^~~~
+regexredux.c:99:5: warning: missing initializer for field ‘size’ of ‘string {aka struct <anonymous>}’ [-Wmissing-field-initializers]
+     string input={malloc(16384), 16384}, sequences={malloc(16384), 16384};
+     ^~~~~~
+regexredux.c:14:19: note: ‘size’ declared here
+     int capacity, size;
+                   ^~~~
+regexredux.c:114:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+     #pragma omp parallel
+ 
+regexredux.c:121:0: warning: ignoring #pragma omp single [-Wunknown-pragmas]
+         #pragma omp single
+ 
+regexredux.c:131:0: warning: ignoring #pragma omp single [-Wunknown-pragmas]
+         #pragma omp single nowait
+ 
+regexredux.c:144:15: warning: missing initializer for field ‘size’ of ‘string {aka struct <anonymous>}’ [-Wmissing-field-initializers]
+               };
+               ^
+regexredux.c:14:19: note: ‘size’ declared here
+     int capacity, size;
+                   ^~~~
+regexredux.c:149:27: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+             for(int i=0; i<sizeof(replace_Info)/sizeof(char * [2]); i++){
+                           ^
+regexredux.c:175:0: warning: ignoring #pragma omp for [-Wunknown-pragmas]
+         #pragma omp for schedule(dynamic) ordered
+ 
+regexredux.c:176:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+         for(int i=0; i<sizeof(count_Info)/sizeof(char *); i++){
+                       ^
+regexredux.c:200:0: warning: ignoring #pragma omp ordered [-Wunknown-pragmas]
+             #pragma omp ordered
+ 
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'

@@ -1,0 +1,11 @@
+regexredux
+	Time: 13.781 - 14.485 (13.872)
+	Energy: 138.577 - 147.229 (140.309)
+	CPU: 127.337 - 135.470 (129.019)
+	Memory: 11.223 - 11.759 (11.290)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+regexredux	&\makecell{13.781-14.485\\4.9 \% \\(13.872)}	&\makecell{138.577-147.229\\5.9 \% \\(140.309)}	&\makecell{127.337-135.470\\6.0 \% \\(129.019)\\}	&\makecell{11.223-11.759\\4.6 \% \\(11.290)\\}	&\makecell{10.041-10.201\\1.6 \% \\(10.114)}\\\hline
+
+

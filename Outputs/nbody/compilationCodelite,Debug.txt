@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'
+gcc -g -O0 -Wall -o nbody nbody.c -lm
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/nbody'

@@ -1,0 +1,11 @@
+revcomp
+	Time: 9.941 - 12.537 (11.826)
+	Energy: 15.994 - 24.825 (20.479)
+	CPU: 8.366 - 15.736 (11.812)
+	Memory: 7.628 - 9.180 (8.667)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+revcomp	&\makecell{9.941-12.537\\20.7 \% \\(11.826)}	&\makecell{15.994-24.825\\35.6 \% \\(20.479)}	&\makecell{8.366-15.736\\46.8 \% \\(11.812)\\}	&\makecell{7.628-9.180\\16.9 \% \\(8.667)\\}	&\makecell{1.423-2.224\\36.0 \% \\(1.729)}\\\hline
+
+

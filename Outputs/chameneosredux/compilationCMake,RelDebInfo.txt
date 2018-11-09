@@ -1,0 +1,8 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/chameneosredux'
+gcc -O2 -g -DNDEBUG -pthread -o chameneosredux chameneosredux.c
+chameneosredux.c: In function ‘join_and_output’:
+chameneosredux.c:399:18: warning: format ‘%u’ expects argument of type ‘unsigned int’, but argument 2 has type ‘size_t {aka long unsigned int}’ [-Wformat=]
+         printf("%u%s\n", chameneos[i]->meet_count,
+                 ~^       ~~~~~~~~~~~~~~~~~~~~~~~~
+                 %lu
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/chameneosredux'

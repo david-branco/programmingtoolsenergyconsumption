@@ -1,0 +1,516 @@
+Tools ranked with 0 decimal points
+	 Time Ranking:
+		1: sphere (19.0)
+		2: gps (21.5)
+		3: clion (22.2)
+		  : kdevelop (22.2)
+		  : cmake (22.2)
+		4: qmake (23.0)
+		5: qt (23.4)
+		6: eclipse (24.5)
+		  : codelite (24.5)
+		  : zinjai (24.5)
+		7: dialogblocks (25.5)
+		8: netbeans (26.0)
+		  : oracle (26.0)
+		9: qbs (26.5)
+		10: anjuta (30.5)
+		11: cloud9 (33.0)
+		12: codeblocks (34.0)
+		13: geany (35.0)
+
+
+	 Energy Ranking:
+		1: sphere (29.0)
+		2: gps (40.2)
+		3: clion (42.5)
+		  : kdevelop (42.5)
+		  : cmake (42.5)
+		4: qmake (43.0)
+		5: qt (44.6)
+		6: eclipse (48.0)
+		7: qbs (51.0)
+		  : codelite (51.0)
+		8: dialogblocks (52.0)
+		9: zinjai (53.0)
+		10: netbeans (54.0)
+		  : oracle (54.0)
+		11: anjuta (65.0)
+		12: codeblocks (79.0)
+		13: geany (80.0)
+		14: cloud9 (80.5)
+
+
+	 CPU Ranking:
+		1: sphere (31.0)
+		2: gps (41.0)
+		3: clion (43.5)
+		  : kdevelop (43.5)
+		  : cmake (43.5)
+		4: qmake (44.0)
+		5: qt (45.6)
+		6: eclipse (49.5)
+		7: qbs (52.0)
+		8: codelite (53.5)
+		  : zinjai (53.5)
+		9: netbeans (55.0)
+		  : oracle (55.0)
+		  : dialogblocks (55.0)
+		10: anjuta (67.5)
+		11: codeblocks (81.0)
+		12: cloud9 (82.5)
+		13: geany (84.0)
+
+
+	 Memory Ranking:
+		1: sphere (15.0)
+		2: gps (18.8)
+		3: clion (20.2)
+		  : kdevelop (20.2)
+		  : cmake (20.2)
+		4: qmake (20.7)
+		5: eclipse (21.0)
+		6: qt (21.1)
+		7: zinjai (22.0)
+		8: codelite (22.5)
+		9: netbeans (23.0)
+		  : oracle (23.0)
+		  : dialogblocks (23.0)
+		10: qbs (23.5)
+		11: anjuta (27.5)
+		12: cloud9 (31.0)
+		  : geany (31.0)
+		13: codeblocks (32.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(18.0)
+		2: gps(18.8)
+		3: clion(19.0)
+		  : kdevelop(19.0)
+		  : cmake(19.0)
+		  : qmake(19.0)
+		4: qt(19.1)
+		5: eclipse(19.5)
+		  : qbs(19.5)
+		  : zinjai(19.5)
+		  : dialogblocks(19.5)
+		6: netbeans(20.0)
+		  : oracle(20.0)
+		7: codelite(20.5)
+		8: anjuta(20.8)
+		9: cloud9(22.5)
+		10: geany(23.0)
+		  : codeblocks(23.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+cmake	&	3 \scriptsize(22.2)	&	3 \scriptsize(42.5)	&	3 \scriptsize(43.5)	&	3 \scriptsize(20.2)	&	3 \scriptsize(19.0)\\\hline
+qmake	&	4 \scriptsize(23.0)	&	4 \scriptsize(43.0)	&	4 \scriptsize(44.0)	&	4 \scriptsize(20.7)	&	3 \scriptsize(19.0)\\\hline
+qbs	&	9 \scriptsize(26.5)	&	7 \scriptsize(51.0)	&	7 \scriptsize(52.0)	&	10 \scriptsize(23.5)	&	5 \scriptsize(19.5)\\\hline
+netbeans	&	8 \scriptsize(26.0)	&	10 \scriptsize(54.0)	&	9 \scriptsize(55.0)	&	9 \scriptsize(23.0)	&	6 \scriptsize(20.0)\\\hline
+codeblocks	&	12 \scriptsize(34.0)	&	12 \scriptsize(79.0)	&	11 \scriptsize(81.0)	&	13 \scriptsize(32.0)	&	10 \scriptsize(23.0)\\\hline
+clion	&	3 \scriptsize(22.2)	&	3 \scriptsize(42.5)	&	3 \scriptsize(43.5)	&	3 \scriptsize(20.2)	&	3 \scriptsize(19.0)\\\hline
+codelite	&	6 \scriptsize(24.5)	&	7 \scriptsize(51.0)	&	8 \scriptsize(53.5)	&	8 \scriptsize(22.5)	&	7 \scriptsize(20.5)\\\hline
+eclipse	&	6 \scriptsize(24.5)	&	6 \scriptsize(48.0)	&	6 \scriptsize(49.5)	&	5 \scriptsize(21.0)	&	5 \scriptsize(19.5)\\\hline
+kdevelop	&	3 \scriptsize(22.2)	&	3 \scriptsize(42.5)	&	3 \scriptsize(43.5)	&	3 \scriptsize(20.2)	&	3 \scriptsize(19.0)\\\hline
+geany	&	13 \scriptsize(35.0)	&	13 \scriptsize(80.0)	&	13 \scriptsize(84.0)	&	12 \scriptsize(31.0)	&	10 \scriptsize(23.0)\\\hline
+anjuta	&	10 \scriptsize(30.5)	&	11 \scriptsize(65.0)	&	10 \scriptsize(67.5)	&	11 \scriptsize(27.5)	&	8 \scriptsize(20.8)\\\hline
+qt	&	5 \scriptsize(23.4)	&	5 \scriptsize(44.6)	&	5 \scriptsize(45.6)	&	6 \scriptsize(21.1)	&	4 \scriptsize(19.1)\\\hline
+dialogblocks	&	7 \scriptsize(25.5)	&	8 \scriptsize(52.0)	&	9 \scriptsize(55.0)	&	9 \scriptsize(23.0)	&	5 \scriptsize(19.5)\\\hline
+zinjai	&	6 \scriptsize(24.5)	&	9 \scriptsize(53.0)	&	8 \scriptsize(53.5)	&	7 \scriptsize(22.0)	&	5 \scriptsize(19.5)\\\hline
+gps	&	2 \scriptsize(21.5)	&	2 \scriptsize(40.2)	&	2 \scriptsize(41.0)	&	2 \scriptsize(18.8)	&	2 \scriptsize(18.8)\\\hline
+oracle	&	8 \scriptsize(26.0)	&	10 \scriptsize(54.0)	&	9 \scriptsize(55.0)	&	9 \scriptsize(23.0)	&	6 \scriptsize(20.0)\\\hline
+sphere	&	1 \scriptsize(19.0)	&	1 \scriptsize(29.0)	&	1 \scriptsize(31.0)	&	1 \scriptsize(15.0)	&	1 \scriptsize(18.0)\\\hline
+cloud9	&	11 \scriptsize(33.0)	&	14 \scriptsize(80.5)	&	12 \scriptsize(82.5)	&	12 \scriptsize(31.0)	&	9 \scriptsize(22.5)\\\hline
+
+
+Tools ranked with 1 decimal points
+	 Time Ranking:
+		1: sphere (33.0)
+		2: gps (38.0)
+		3: cmake (41.2)
+		  : kdevelop (41.2)
+		  : clion (41.2)
+		4: zinjai (42.0)
+		5: eclipse (43.5)
+		6: codelite (44.0)
+		7: qt (44.7)
+		8: qmake (45.3)
+		9: dialogblocks (46.0)
+		10: oracle (49.5)
+		  : netbeans (49.5)
+		11: qbs (50.5)
+		12: anjuta (57.2)
+		13: cloud9 (61.0)
+		14: geany (63.0)
+		15: codeblocks (65.0)
+
+
+	 Energy Ranking:
+		1: sphere (81.0)
+		2: gps (96.2)
+		3: cmake (101.2)
+		  : kdevelop (101.2)
+		  : clion (101.2)
+		4: qmake (105.7)
+		5: qt (107.9)
+		6: eclipse (112.5)
+		7: codelite (118.0)
+		8: zinjai (121.5)
+		9: qbs (124.5)
+		10: dialogblocks (125.5)
+		11: oracle (127.0)
+		  : netbeans (127.0)
+		12: anjuta (150.5)
+		13: geany (170.0)
+		14: cloud9 (178.5)
+		15: codeblocks (179.0)
+
+
+	 CPU Ranking:
+		1: sphere (79.0)
+		2: gps (91.5)
+		3: cmake (96.2)
+		  : kdevelop (96.2)
+		  : clion (96.2)
+		4: qmake (99.3)
+		5: qt (102.4)
+		6: eclipse (108.0)
+		7: codelite (114.0)
+		8: zinjai (116.5)
+		9: oracle (119.5)
+		  : netbeans (119.5)
+		  : qbs (119.5)
+		10: dialogblocks (120.0)
+		11: anjuta (143.0)
+		12: geany (165.0)
+		13: cloud9 (173.0)
+		14: codeblocks (174.0)
+
+
+	 Memory Ranking:
+		1: sphere (34.0)
+		2: gps (35.8)
+		3: cmake (39.8)
+		  : kdevelop (39.8)
+		  : clion (39.8)
+		4: zinjai (40.5)
+		5: eclipse (42.0)
+		6: qmake (42.3)
+		7: codelite (42.5)
+		8: qt (42.8)
+		9: dialogblocks (44.5)
+		10: oracle (47.5)
+		  : netbeans (47.5)
+		11: qbs (49.5)
+		12: anjuta (54.5)
+		13: cloud9 (55.5)
+		14: geany (59.0)
+		15: codeblocks (60.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(44.0)
+		2: gps(46.5)
+		3: cmake(46.8)
+		  : kdevelop(46.8)
+		  : clion(46.8)
+		4: qmake(47.0)
+		5: qt(47.6)
+		6: eclipse(49.0)
+		7: oracle(50.0)
+		  : netbeans(50.0)
+		  : qbs(50.0)
+		8: codelite(50.5)
+		9: anjuta(52.0)
+		  : dialogblocks(52.0)
+		10: zinjai(58.0)
+		11: codeblocks(59.0)
+		12: geany(62.0)
+		13: cloud9(63.5)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+cmake	&	3 \scriptsize(41.2)	&	3 \scriptsize(101.2)	&	3 \scriptsize(96.2)	&	3 \scriptsize(39.8)	&	3 \scriptsize(46.8)\\\hline
+qmake	&	8 \scriptsize(45.3)	&	4 \scriptsize(105.7)	&	4 \scriptsize(99.3)	&	6 \scriptsize(42.3)	&	4 \scriptsize(47.0)\\\hline
+qbs	&	11 \scriptsize(50.5)	&	9 \scriptsize(124.5)	&	9 \scriptsize(119.5)	&	11 \scriptsize(49.5)	&	7 \scriptsize(50.0)\\\hline
+netbeans	&	10 \scriptsize(49.5)	&	11 \scriptsize(127.0)	&	9 \scriptsize(119.5)	&	10 \scriptsize(47.5)	&	7 \scriptsize(50.0)\\\hline
+codeblocks	&	15 \scriptsize(65.0)	&	15 \scriptsize(179.0)	&	14 \scriptsize(174.0)	&	15 \scriptsize(60.0)	&	11 \scriptsize(59.0)\\\hline
+clion	&	3 \scriptsize(41.2)	&	3 \scriptsize(101.2)	&	3 \scriptsize(96.2)	&	3 \scriptsize(39.8)	&	3 \scriptsize(46.8)\\\hline
+codelite	&	6 \scriptsize(44.0)	&	7 \scriptsize(118.0)	&	7 \scriptsize(114.0)	&	7 \scriptsize(42.5)	&	8 \scriptsize(50.5)\\\hline
+eclipse	&	5 \scriptsize(43.5)	&	6 \scriptsize(112.5)	&	6 \scriptsize(108.0)	&	5 \scriptsize(42.0)	&	6 \scriptsize(49.0)\\\hline
+kdevelop	&	3 \scriptsize(41.2)	&	3 \scriptsize(101.2)	&	3 \scriptsize(96.2)	&	3 \scriptsize(39.8)	&	3 \scriptsize(46.8)\\\hline
+geany	&	14 \scriptsize(63.0)	&	13 \scriptsize(170.0)	&	12 \scriptsize(165.0)	&	14 \scriptsize(59.0)	&	12 \scriptsize(62.0)\\\hline
+anjuta	&	12 \scriptsize(57.2)	&	12 \scriptsize(150.5)	&	11 \scriptsize(143.0)	&	12 \scriptsize(54.5)	&	9 \scriptsize(52.0)\\\hline
+qt	&	7 \scriptsize(44.7)	&	5 \scriptsize(107.9)	&	5 \scriptsize(102.4)	&	8 \scriptsize(42.8)	&	5 \scriptsize(47.6)\\\hline
+dialogblocks	&	9 \scriptsize(46.0)	&	10 \scriptsize(125.5)	&	10 \scriptsize(120.0)	&	9 \scriptsize(44.5)	&	9 \scriptsize(52.0)\\\hline
+zinjai	&	4 \scriptsize(42.0)	&	8 \scriptsize(121.5)	&	8 \scriptsize(116.5)	&	4 \scriptsize(40.5)	&	10 \scriptsize(58.0)\\\hline
+gps	&	2 \scriptsize(38.0)	&	2 \scriptsize(96.2)	&	2 \scriptsize(91.5)	&	2 \scriptsize(35.8)	&	2 \scriptsize(46.5)\\\hline
+oracle	&	10 \scriptsize(49.5)	&	11 \scriptsize(127.0)	&	9 \scriptsize(119.5)	&	10 \scriptsize(47.5)	&	7 \scriptsize(50.0)\\\hline
+sphere	&	1 \scriptsize(33.0)	&	1 \scriptsize(81.0)	&	1 \scriptsize(79.0)	&	1 \scriptsize(34.0)	&	1 \scriptsize(44.0)\\\hline
+cloud9	&	13 \scriptsize(61.0)	&	14 \scriptsize(178.5)	&	13 \scriptsize(173.0)	&	13 \scriptsize(55.5)	&	13 \scriptsize(63.5)\\\hline
+
+
+Tools ranked with 2 decimal points
+	 Time Ranking:
+		1: sphere (71.0)
+		2: gps (76.5)
+		3: zinjai (87.0)
+		4: cmake (87.2)
+		  : kdevelop (87.2)
+		  : clion (87.2)
+		5: codelite (88.0)
+		6: qmake (92.7)
+		7: dialogblocks (94.0)
+		  : qt (94.0)
+		8: eclipse (96.0)
+		9: oracle (108.0)
+		  : netbeans (108.0)
+		10: qbs (109.5)
+		11: anjuta (123.0)
+		12: cloud9 (127.0)
+		13: geany (133.0)
+		14: codeblocks (137.0)
+
+
+	 Energy Ranking:
+		1: sphere (103.0)
+		2: gps (121.8)
+		3: cmake (128.8)
+		  : kdevelop (128.8)
+		  : clion (128.8)
+		4: qmake (136.7)
+		5: qt (139.2)
+		6: eclipse (139.5)
+		7: codelite (148.5)
+		8: zinjai (153.0)
+		9: dialogblocks (156.0)
+		10: oracle (162.0)
+		  : netbeans (162.0)
+		11: qbs (164.0)
+		12: anjuta (188.8)
+		13: geany (216.0)
+		14: cloud9 (223.5)
+		15: codeblocks (226.0)
+
+
+	 CPU Ranking:
+		1: sphere (106.0)
+		2: gps (123.2)
+		3: cmake (127.5)
+		  : kdevelop (127.5)
+		  : clion (127.5)
+		4: qmake (133.7)
+		5: qt (136.9)
+		6: eclipse (144.0)
+		7: codelite (151.0)
+		8: zinjai (152.5)
+		9: dialogblocks (156.0)
+		10: oracle (158.0)
+		  : netbeans (158.0)
+		11: qbs (160.5)
+		12: anjuta (189.0)
+		13: geany (214.0)
+		14: cloud9 (224.5)
+		15: codeblocks (231.0)
+
+
+	 Memory Ranking:
+		1: sphere (67.0)
+		2: gps (71.2)
+		3: codelite (80.0)
+		4: cmake (81.2)
+		  : kdevelop (81.2)
+		  : clion (81.2)
+		5: zinjai (83.0)
+		6: eclipse (86.0)
+		7: qmake (87.0)
+		8: qt (88.0)
+		9: dialogblocks (89.0)
+		10: oracle (99.5)
+		  : netbeans (99.5)
+		11: qbs (103.0)
+		12: anjuta (111.8)
+		13: cloud9 (114.0)
+		14: codeblocks (120.0)
+		15: geany (121.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(107.0)
+		2: cmake(109.8)
+		  : kdevelop(109.8)
+		  : clion(109.8)
+		3: qmake(112.3)
+		4: qt(112.7)
+		5: gps(113.5)
+		  : eclipse(113.5)
+		6: oracle(116.0)
+		  : netbeans(116.0)
+		7: qbs(119.0)
+		8: anjuta(121.8)
+		9: dialogblocks(122.0)
+		  : codelite(122.0)
+		10: zinjai(126.5)
+		11: geany(139.0)
+		12: codeblocks(143.0)
+		13: cloud9(148.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+cmake	&	4 \scriptsize(87.2)	&	3 \scriptsize(128.8)	&	3 \scriptsize(127.5)	&	4 \scriptsize(81.2)	&	2 \scriptsize(109.8)\\\hline
+qmake	&	6 \scriptsize(92.7)	&	4 \scriptsize(136.7)	&	4 \scriptsize(133.7)	&	7 \scriptsize(87.0)	&	3 \scriptsize(112.3)\\\hline
+qbs	&	10 \scriptsize(109.5)	&	11 \scriptsize(164.0)	&	11 \scriptsize(160.5)	&	11 \scriptsize(103.0)	&	7 \scriptsize(119.0)\\\hline
+netbeans	&	9 \scriptsize(108.0)	&	10 \scriptsize(162.0)	&	10 \scriptsize(158.0)	&	10 \scriptsize(99.5)	&	6 \scriptsize(116.0)\\\hline
+codeblocks	&	14 \scriptsize(137.0)	&	15 \scriptsize(226.0)	&	15 \scriptsize(231.0)	&	14 \scriptsize(120.0)	&	12 \scriptsize(143.0)\\\hline
+clion	&	4 \scriptsize(87.2)	&	3 \scriptsize(128.8)	&	3 \scriptsize(127.5)	&	4 \scriptsize(81.2)	&	2 \scriptsize(109.8)\\\hline
+codelite	&	5 \scriptsize(88.0)	&	7 \scriptsize(148.5)	&	7 \scriptsize(151.0)	&	3 \scriptsize(80.0)	&	9 \scriptsize(122.0)\\\hline
+eclipse	&	8 \scriptsize(96.0)	&	6 \scriptsize(139.5)	&	6 \scriptsize(144.0)	&	6 \scriptsize(86.0)	&	5 \scriptsize(113.5)\\\hline
+kdevelop	&	4 \scriptsize(87.2)	&	3 \scriptsize(128.8)	&	3 \scriptsize(127.5)	&	4 \scriptsize(81.2)	&	2 \scriptsize(109.8)\\\hline
+geany	&	13 \scriptsize(133.0)	&	13 \scriptsize(216.0)	&	13 \scriptsize(214.0)	&	15 \scriptsize(121.0)	&	11 \scriptsize(139.0)\\\hline
+anjuta	&	11 \scriptsize(123.0)	&	12 \scriptsize(188.8)	&	12 \scriptsize(189.0)	&	12 \scriptsize(111.8)	&	8 \scriptsize(121.8)\\\hline
+qt	&	7 \scriptsize(94.0)	&	5 \scriptsize(139.2)	&	5 \scriptsize(136.9)	&	8 \scriptsize(88.0)	&	4 \scriptsize(112.7)\\\hline
+dialogblocks	&	7 \scriptsize(94.0)	&	9 \scriptsize(156.0)	&	9 \scriptsize(156.0)	&	9 \scriptsize(89.0)	&	9 \scriptsize(122.0)\\\hline
+zinjai	&	3 \scriptsize(87.0)	&	8 \scriptsize(153.0)	&	8 \scriptsize(152.5)	&	5 \scriptsize(83.0)	&	10 \scriptsize(126.5)\\\hline
+gps	&	2 \scriptsize(76.5)	&	2 \scriptsize(121.8)	&	2 \scriptsize(123.2)	&	2 \scriptsize(71.2)	&	5 \scriptsize(113.5)\\\hline
+oracle	&	9 \scriptsize(108.0)	&	10 \scriptsize(162.0)	&	10 \scriptsize(158.0)	&	10 \scriptsize(99.5)	&	6 \scriptsize(116.0)\\\hline
+sphere	&	1 \scriptsize(71.0)	&	1 \scriptsize(103.0)	&	1 \scriptsize(106.0)	&	1 \scriptsize(67.0)	&	1 \scriptsize(107.0)\\\hline
+cloud9	&	12 \scriptsize(127.0)	&	14 \scriptsize(223.5)	&	14 \scriptsize(224.5)	&	13 \scriptsize(114.0)	&	13 \scriptsize(148.0)\\\hline
+
+
+Tools ranked with 3 decimal points
+	 Time Ranking:
+		1: sphere (95.0)
+		2: gps (110.0)
+		3: clion (123.0)
+		  : cmake (123.0)
+		  : kdevelop (123.0)
+		4: codelite (123.5)
+		5: zinjai (128.5)
+		6: qmake (129.3)
+		7: qt (131.9)
+		8: dialogblocks (136.0)
+		9: eclipse (137.5)
+		10: netbeans (153.5)
+		  : qbs (153.5)
+		  : oracle (153.5)
+		11: anjuta (176.8)
+		12: cloud9 (188.5)
+		13: codeblocks (200.0)
+		14: geany (201.0)
+
+
+	 Energy Ranking:
+		1: sphere (110.0)
+		2: gps (130.2)
+		3: clion (137.2)
+		  : cmake (137.2)
+		  : kdevelop (137.2)
+		4: qmake (146.3)
+		5: eclipse (148.5)
+		6: qt (149.2)
+		7: codelite (157.0)
+		8: zinjai (163.5)
+		9: dialogblocks (164.5)
+		10: netbeans (172.5)
+		  : oracle (172.5)
+		11: qbs (177.5)
+		12: anjuta (201.5)
+		13: geany (232.0)
+		14: cloud9 (237.5)
+		15: codeblocks (243.0)
+
+
+	 CPU Ranking:
+		1: sphere (110.0)
+		2: gps (132.2)
+		3: clion (136.5)
+		  : cmake (136.5)
+		  : kdevelop (136.5)
+		4: qmake (144.7)
+		5: qt (147.3)
+		6: eclipse (153.5)
+		7: codelite (159.5)
+		8: zinjai (162.5)
+		9: dialogblocks (164.5)
+		10: netbeans (169.0)
+		  : oracle (169.0)
+		11: qbs (173.0)
+		12: anjuta (201.8)
+		13: geany (231.0)
+		14: cloud9 (240.0)
+		15: codeblocks (249.0)
+
+
+	 Memory Ranking:
+		1: sphere (96.0)
+		2: gps (107.0)
+		3: clion (119.0)
+		  : cmake (119.0)
+		  : kdevelop (119.0)
+		4: codelite (123.0)
+		5: qmake (126.0)
+		6: qt (128.7)
+		7: eclipse (130.0)
+		  : zinjai (130.0)
+		8: dialogblocks (136.0)
+		9: netbeans (148.5)
+		  : oracle (148.5)
+		10: qbs (152.0)
+		11: anjuta (171.5)
+		12: cloud9 (185.0)
+		13: geany (191.0)
+		14: codeblocks (193.0)
+
+
+	 Energy/Time Ranking:
+		1: sphere(137.0)
+		2: qmake(140.7)
+		3: clion(142.8)
+		  : cmake(142.8)
+		  : kdevelop(142.8)
+		4: qt(144.9)
+		5: eclipse(145.0)
+		6: gps(147.8)
+		7: netbeans(150.5)
+		  : oracle(150.5)
+		8: qbs(155.5)
+		9: anjuta(156.2)
+		10: dialogblocks(157.0)
+		11: codelite(160.0)
+		12: zinjai(163.0)
+		13: geany(181.0)
+		14: codeblocks(187.0)
+		15: cloud9(193.0)
+
+
+
+LaTeX Table
+\thead{\textbf{Tool Name}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+cmake	&	3 \scriptsize(123.0)	&	3 \scriptsize(137.2)	&	3 \scriptsize(136.5)	&	3 \scriptsize(119.0)	&	3 \scriptsize(142.8)\\\hline
+qmake	&	6 \scriptsize(129.3)	&	4 \scriptsize(146.3)	&	4 \scriptsize(144.7)	&	5 \scriptsize(126.0)	&	2 \scriptsize(140.7)\\\hline
+qbs	&	10 \scriptsize(153.5)	&	11 \scriptsize(177.5)	&	11 \scriptsize(173.0)	&	10 \scriptsize(152.0)	&	8 \scriptsize(155.5)\\\hline
+netbeans	&	10 \scriptsize(153.5)	&	10 \scriptsize(172.5)	&	10 \scriptsize(169.0)	&	9 \scriptsize(148.5)	&	7 \scriptsize(150.5)\\\hline
+codeblocks	&	13 \scriptsize(200.0)	&	15 \scriptsize(243.0)	&	15 \scriptsize(249.0)	&	14 \scriptsize(193.0)	&	14 \scriptsize(187.0)\\\hline
+clion	&	3 \scriptsize(123.0)	&	3 \scriptsize(137.2)	&	3 \scriptsize(136.5)	&	3 \scriptsize(119.0)	&	3 \scriptsize(142.8)\\\hline
+codelite	&	4 \scriptsize(123.5)	&	7 \scriptsize(157.0)	&	7 \scriptsize(159.5)	&	4 \scriptsize(123.0)	&	11 \scriptsize(160.0)\\\hline
+eclipse	&	9 \scriptsize(137.5)	&	5 \scriptsize(148.5)	&	6 \scriptsize(153.5)	&	7 \scriptsize(130.0)	&	5 \scriptsize(145.0)\\\hline
+kdevelop	&	3 \scriptsize(123.0)	&	3 \scriptsize(137.2)	&	3 \scriptsize(136.5)	&	3 \scriptsize(119.0)	&	3 \scriptsize(142.8)\\\hline
+geany	&	14 \scriptsize(201.0)	&	13 \scriptsize(232.0)	&	13 \scriptsize(231.0)	&	13 \scriptsize(191.0)	&	13 \scriptsize(181.0)\\\hline
+anjuta	&	11 \scriptsize(176.8)	&	12 \scriptsize(201.5)	&	12 \scriptsize(201.8)	&	11 \scriptsize(171.5)	&	9 \scriptsize(156.2)\\\hline
+qt	&	7 \scriptsize(131.9)	&	6 \scriptsize(149.2)	&	5 \scriptsize(147.3)	&	6 \scriptsize(128.7)	&	4 \scriptsize(144.9)\\\hline
+dialogblocks	&	8 \scriptsize(136.0)	&	9 \scriptsize(164.5)	&	9 \scriptsize(164.5)	&	8 \scriptsize(136.0)	&	10 \scriptsize(157.0)\\\hline
+zinjai	&	5 \scriptsize(128.5)	&	8 \scriptsize(163.5)	&	8 \scriptsize(162.5)	&	7 \scriptsize(130.0)	&	12 \scriptsize(163.0)\\\hline
+gps	&	2 \scriptsize(110.0)	&	2 \scriptsize(130.2)	&	2 \scriptsize(132.2)	&	2 \scriptsize(107.0)	&	6 \scriptsize(147.8)\\\hline
+oracle	&	10 \scriptsize(153.5)	&	10 \scriptsize(172.5)	&	10 \scriptsize(169.0)	&	9 \scriptsize(148.5)	&	7 \scriptsize(150.5)\\\hline
+sphere	&	1 \scriptsize(95.0)	&	1 \scriptsize(110.0)	&	1 \scriptsize(110.0)	&	1 \scriptsize(96.0)	&	1 \scriptsize(137.0)\\\hline
+cloud9	&	12 \scriptsize(188.5)	&	14 \scriptsize(237.5)	&	14 \scriptsize(240.0)	&	12 \scriptsize(185.0)	&	15 \scriptsize(193.0)\\\hline
+
+

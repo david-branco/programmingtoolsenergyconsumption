@@ -1,0 +1,29 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/revcomp'
+gcc -O3 -Wall -fmessage-length=0 -o revcomp revcomp.c
+revcomp.c: In function ‘process_Sequence’:
+revcomp.c:56:0: warning: ignoring #pragma omp flush [-Wunknown-pragmas]
+    #pragma omp flush(next_Sequence_Number_To_Output)
+ 
+revcomp.c:58:0: warning: ignoring #pragma omp flush [-Wunknown-pragmas]
+       #pragma omp flush(next_Sequence_Number_To_Output)
+ 
+revcomp.c:62:0: warning: ignoring #pragma omp flush [-Wunknown-pragmas]
+    #pragma omp flush(next_Sequence_Number_To_Output)
+ 
+revcomp.c: In function ‘main’:
+revcomp.c:78:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+    #pragma omp parallel
+ 
+revcomp.c:80:0: warning: ignoring #pragma omp single [-Wunknown-pragmas]
+       #pragma omp single
+ 
+revcomp.c:118:0: warning: ignoring #pragma omp task [-Wunknown-pragmas]
+                   #pragma omp task\
+ 
+revcomp.c:74:3: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   freopen("input5000000.txt", "r", stdin);
+   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+revcomp.c:75:3: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   freopen("output.txt", "w+", stdout);
+   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/revcomp'

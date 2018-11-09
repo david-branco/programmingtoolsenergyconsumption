@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'
+gcc -Os -DNDEBUG -o fannkuchredux fannkuchredux.c
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fannkuchredux'

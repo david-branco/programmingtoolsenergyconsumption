@@ -1,0 +1,11 @@
+spectralnorm
+	Time: 2.438 - 7.156 (4.734)
+	Energy: 21.504 - 86.862 (52.589)
+	CPU: 19.884 - 82.113 (49.444)
+	Memory: 1.620 - 4.752 (3.144)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+spectralnorm	&\makecell{2.438-7.156\\65.9 \% \\(4.734)}	&\makecell{21.504-86.862\\75.2 \% \\(52.589)}	&\makecell{19.884-82.113\\75.8 \% \\(49.444)\\}	&\makecell{1.620-4.752\\65.9 \% \\(3.144)\\}	&\makecell{8.817-12.149\\27.4 \% \\(10.392)}\\\hline
+
+

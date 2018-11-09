@@ -1,0 +1,11 @@
+knucleotide
+	Time: 7.113 - 22.755 (14.434)
+	Energy: 81.043 - 245.822 (159.531)
+	CPU: 75.857 - 230.399 (149.443)
+	Memory: 5.186 - 15.641 (10.087)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+knucleotide	&\makecell{7.113-22.755\\68.7 \% \\(14.434)}	&\makecell{81.043-245.822\\67.0 \% \\(159.531)}	&\makecell{75.857-230.399\\67.1 \% \\(149.443)\\}	&\makecell{5.186-15.641\\66.8 \% \\(10.087)\\}	&\makecell{10.744-11.730\\8.4 \% \\(11.241)}\\\hline
+
+

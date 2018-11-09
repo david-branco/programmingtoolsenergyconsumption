@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/mandelbrot'
+gcc -O2 -g -DNDEBUG -o mandelbrot mandelbrot.c
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/mandelbrot'

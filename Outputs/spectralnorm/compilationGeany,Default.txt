@@ -1,0 +1,11 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/spectralnorm'
+gcc -Wall -o spectralnorm spectralnorm.c -lm
+spectralnorm.c: In function ‘mult_Av’:
+spectralnorm.c:30:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel for
+ 
+spectralnorm.c: In function ‘mult_Atv’:
+spectralnorm.c:47:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+ #pragma omp parallel for
+ 
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/spectralnorm'

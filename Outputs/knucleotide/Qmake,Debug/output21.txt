@@ -1,0 +1,63 @@
+A 30.295
+T 30.151
+C 19.800
+G 19.754
+
+AA 9.177
+TA 9.132
+AT 9.131
+TT 9.091
+CA 6.002
+AC 6.001
+AG 5.987
+GA 5.984
+CT 5.971
+TC 5.971
+GT 5.957
+TG 5.956
+CC 3.917
+GC 3.911
+CG 3.909
+GG 3.902
+
+1471758	GGT
+446535	GGTA
+47336	GGTATT
+893	GGTATTTTAATT
+893	GGTATTTTAATTTATAGT
+
+Executable name: Source_Files/knucleotide/knucleotide
+Executable: ./Source_Files/knucleotide/knucleotide
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 201456.847412J
+PowerPlane0 (core) for core 1 energy before: 28010.353638J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 2.312622J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 19553.881470J
+
+Executing ./Source_Files/knucleotide/knucleotide
+
+Total time: 22.603630s
+Package energy after: 201860.449463  (403.602051J consumed)
+PowerPlane0 (core) for core 1 energy after: 28240.117065  (229.763428J consumed)
+PowerPlane1 (on-core GPU if avail) after: 2.312622  (0.000000J consumed)
+DRAM energy after: 19569.394897  (15.513428J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

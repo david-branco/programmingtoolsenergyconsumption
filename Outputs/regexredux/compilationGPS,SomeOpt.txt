@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'
+gcc -O -o regexredux regexredux.c -lpcre
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/regexredux'

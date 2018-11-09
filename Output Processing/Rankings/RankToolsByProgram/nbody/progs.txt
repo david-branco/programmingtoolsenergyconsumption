@@ -1,0 +1,11 @@
+nbody
+	Time: 3.473 - 25.390 (14.308)
+	Energy: 40.966 - 307.182 (172.280)
+	CPU: 38.658 - 290.323 (162.779)
+	Memory: 2.307 - 16.859 (9.501)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+nbody	&\makecell{3.473-25.390\\86.3 \% \\(14.308)}	&\makecell{40.966-307.182\\86.7 \% \\(172.280)}	&\makecell{38.658-290.323\\86.7 \% \\(162.779)\\}	&\makecell{2.307-16.859\\86.3 \% \\(9.501)\\}	&\makecell{11.781-12.455\\5.4 \% \\(12.103)}\\\hline
+
+

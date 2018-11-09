@@ -1,0 +1,37 @@
+181
+
+Executable name: Source_Files/threadring/threadring
+Executable: ./Source_Files/threadring/threadring
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 80864.512817J
+PowerPlane0 (core) for core 1 energy before: 43979.555298J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 0.615173J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 4224.599915J
+
+Executing ./Source_Files/threadring/threadring
+
+Total time: 10.015221s
+Package energy after: 81023.538208  (159.025391J consumed)
+PowerPlane0 (core) for core 1 energy after: 44065.785767  (86.230469J consumed)
+PowerPlane1 (on-core GPU if avail) after: 0.615173  (0.000000J consumed)
+DRAM energy after: 4233.477783  (8.877869J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

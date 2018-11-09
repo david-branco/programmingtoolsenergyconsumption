@@ -1,0 +1,5 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'
+gcc -fshow-column -fno-diagnostics-show-caret -g2 -Wall -O0 -o fasta fasta.c
+fasta.c: In function ‘generate_And_Wrap_Pseudorandom_DNA_Sequence’:
+fasta.c:243:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'

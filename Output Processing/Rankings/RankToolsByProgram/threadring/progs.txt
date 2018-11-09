@@ -1,0 +1,11 @@
+threadring
+	Time: 9.307 - 9.786 (9.555)
+	Energy: 89.245 - 93.161 (91.362)
+	CPU: 81.511 - 84.919 (83.328)
+	Memory: 7.525 - 8.520 (8.034)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+threadring	&\makecell{9.307-9.786\\4.9 \% \\(9.555)}	&\makecell{89.245-93.161\\4.2 \% \\(91.362)}	&\makecell{81.511-84.919\\4.0 \% \\(83.328)\\}	&\makecell{7.525-8.520\\11.7 \% \\(8.034)\\}	&\makecell{9.361-9.677\\3.3 \% \\(9.562)}\\\hline
+
+

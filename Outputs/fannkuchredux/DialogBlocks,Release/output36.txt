@@ -1,0 +1,38 @@
+3968050
+Pfannkuchen(12) = 65
+
+Executable name: Source_Files/fannkuchredux/fannkuchredux
+Executable: ./Source_Files/fannkuchredux/fannkuchredux
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 73410.010315J
+PowerPlane0 (core) for core 1 energy before: 229604.992615J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 3.650024J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 31858.394287J
+
+Executing ./Source_Files/fannkuchredux/fannkuchredux
+
+Total time: 25.841571s
+Package energy after: 73853.622620  (443.612305J consumed)
+PowerPlane0 (core) for core 1 energy after: 229852.009949  (247.017334J consumed)
+PowerPlane1 (on-core GPU if avail) after: 3.650024  (0.000000J consumed)
+DRAM energy after: 31875.553894  (17.159607J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

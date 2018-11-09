@@ -1,0 +1,11 @@
+mandelbrot
+	Time: 4.624 - 26.755 (15.639)
+	Energy: 42.022 - 320.07 (184.416)
+	CPU: 38.910 - 302.269 (173.991)
+	Memory: 3.111 - 17.806 (10.425)
+
+LaTeX Table
+\thead{\textbf{Program}} & \thead{\textbf{Time (s)}} & \thead{\textbf{Energy (J)}} & \thead{\textbf{CPU (J)}} & \thead{\textbf{Memory (J)}}  & \thead{\textbf{Energy/Time (J/s)}}\\\hline
+mandelbrot	&\makecell{4.624-26.755\\82.7 \% \\(15.639)}	&\makecell{42.022-320.07\\86.9 \% \\(184.416)}	&\makecell{38.910-302.269\\87.1 \% \\(173.991)\\}	&\makecell{3.111-17.806\\82.5 \% \\(10.425)\\}	&\makecell{9.086-11.967\\24.1 \% \\(11.525)}\\\hline
+
+

@@ -1,0 +1,6 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/mandelbrot'
+gcc -fshow-column -fno-diagnostics-show-caret -g2 -Wall -O0 -o mandelbrot mandelbrot.c
+mandelbrot.c: In function ‘main’:
+mandelbrot.c:180:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+mandelbrot.c:194:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/mandelbrot'

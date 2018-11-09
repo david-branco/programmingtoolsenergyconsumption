@@ -1,0 +1,37 @@
+1.274224153
+
+Executable name: Source_Files/spectralnorm/spectralnorm
+Executable: ./Source_Files/spectralnorm/spectralnorm
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 199202.570618J
+PowerPlane0 (core) for core 1 energy before: 5137.104858J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 2.215271J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 16012.502686J
+
+Executing ./Source_Files/spectralnorm/spectralnorm
+
+Total time: 2.438651s
+Package energy after: 199243.598083  (41.027466J consumed)
+PowerPlane0 (core) for core 1 energy after: 5158.093872  (20.989014J consumed)
+PowerPlane1 (on-core GPU if avail) after: 2.218323  (0.003052J consumed)
+DRAM energy after: 16014.122925  (1.620239J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

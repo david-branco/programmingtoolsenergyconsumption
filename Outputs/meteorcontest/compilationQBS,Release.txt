@@ -1,0 +1,3 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/meteorcontest'
+gcc -O2 -Wall -Wextra -pipe -fvisibility=default -fPIC -DNDEBUG -o meteorcontest meteorcontest.c
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/meteorcontest'

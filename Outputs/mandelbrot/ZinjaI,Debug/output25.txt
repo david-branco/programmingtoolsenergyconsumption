@@ -1,0 +1,37 @@
+32000015
+
+Executable name: Source_Files/mandelbrot/mandelbrot
+Executable: ./Source_Files/mandelbrot/mandelbrot
+
+Found Haswell CPU
+Checking core #1
+Power units = 0.125W
+Energy units = 0.00006104J
+Time units = 0.00097656s
+
+Package thermal spec: 47.000W
+Package minimum power: 0.000W
+Package maximum power: 0.000W
+Package maximum time window: 0.000000s
+Package power limits are locked
+Package power limit #1: 47.000W for 0.015625s (enabled, not_clamped)
+Package power limit #2: 58.750W for 0.032227s (enabled, not_clamped)
+
+Package energy before: 21340.320862J
+PowerPlane0 (core) for core 1 energy before: 12255.776550J
+PowerPlane0 (core) for core 1 policy: 0
+PowerPlane1 (on-core GPU if avail) before: 0.442688J
+PowerPlane1 (on-core GPU if avail) 1 policy: 16
+DRAM energy before: 875.660950J
+
+Executing ./Source_Files/mandelbrot/mandelbrot
+
+Total time: 26.738815s
+Package energy after: 21843.900879  (503.580017J consumed)
+PowerPlane0 (core) for core 1 energy after: 12554.945557  (299.169006J consumed)
+PowerPlane1 (on-core GPU if avail) after: 0.445740  (0.003052J consumed)
+DRAM energy after: 893.455994  (17.795044J consumed)
+
+Note: the energy measurements can overflow in 60s or so
+      so try to sample the counters more often than that.
+

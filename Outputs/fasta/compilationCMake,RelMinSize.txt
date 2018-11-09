@@ -1,0 +1,7 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'
+gcc -Os -DNDEBUG -o fasta fasta.c
+fasta.c: In function ‘main’:
+fasta.c:318:5: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+     freopen("output.txt", "w+", stdout);
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/fasta'

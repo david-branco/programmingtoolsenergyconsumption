@@ -1,0 +1,10 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/revcomp'
+gcc -Os -DNDEBUG -o revcomp revcomp.c
+revcomp.c: In function ‘main’:
+revcomp.c:74:3: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   freopen("input5000000.txt", "r", stdin);
+   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+revcomp.c:75:3: warning: ignoring return value of ‘freopen’, declared with attribute warn_unused_result [-Wunused-result]
+   freopen("output.txt", "w+", stdout);
+   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/revcomp'

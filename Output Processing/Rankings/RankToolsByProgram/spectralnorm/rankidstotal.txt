@@ -1,0 +1,708 @@
+Profiles ranked with 0 decimal points
+	 Time Ranking:
+		1: 20(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 16(1)
+		  : 15(1)
+		  : 24(1)
+		  : 25(1)
+		  : 14(1)
+		  : 23(1)
+		2: 26(2)
+		3: 4(3)
+		  : 10(3)
+		  : 6(3)
+		  : 9(3)
+		  : 3(3)
+		  : 7(3)
+		  : 5(3)
+		  : 2(3)
+		  : 1(3)
+		  : 8(3)
+		  : 12(3)
+		  : 11(3)
+
+
+	 Energy Ranking:
+		1: 20(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 16(1)
+		  : 15(1)
+		  : 24(1)
+		  : 25(1)
+		  : 14(1)
+		  : 23(1)
+		2: 26(2)
+		3: 7(3)
+		  : 8(3)
+		4: 6(4)
+		  : 9(4)
+		  : 3(4)
+		  : 2(4)
+		  : 1(4)
+		  : 12(4)
+		  : 11(4)
+		5: 4(5)
+		  : 10(5)
+		  : 5(5)
+
+
+	 CPU Ranking:
+		1: 20(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 16(1)
+		  : 24(1)
+		  : 25(1)
+		  : 14(1)
+		  : 23(1)
+		2: 15(2)
+		3: 26(3)
+		4: 7(4)
+		  : 8(4)
+		5: 6(5)
+		  : 9(5)
+		  : 3(5)
+		  : 2(5)
+		  : 1(5)
+		  : 12(5)
+		  : 11(5)
+		6: 4(6)
+		  : 10(6)
+		  : 5(6)
+
+
+	 Memory Ranking:
+		1: 20(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 16(1)
+		  : 15(1)
+		  : 24(1)
+		  : 25(1)
+		  : 14(1)
+		  : 23(1)
+		2: 26(2)
+		3: 4(3)
+		  : 10(3)
+		  : 6(3)
+		  : 9(3)
+		  : 3(3)
+		  : 7(3)
+		  : 5(3)
+		  : 2(3)
+		  : 1(3)
+		  : 8(3)
+		  : 12(3)
+		  : 11(3)
+
+
+	 Energy/Time Ranking:
+		1: 20(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 16(1)
+		  : 15(1)
+		  : 24(1)
+		  : 25(1)
+		  : 14(1)
+		  : 23(1)
+		2: 26(2)
+		3: 4(3)
+		  : 10(3)
+		  : 6(3)
+		  : 9(3)
+		  : 3(3)
+		  : 7(3)
+		  : 5(3)
+		  : 2(3)
+		  : 1(3)
+		  : 8(3)
+		  : 12(3)
+		  : 11(3)
+
+
+
+LaTeX Table
+\thead{\textbf{Profile ID}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+1	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+2	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+3	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+4	&	3 \scriptsize(3)	&	5 \scriptsize(5)	&	6 \scriptsize(6)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+5	&	3 \scriptsize(3)	&	5 \scriptsize(5)	&	6 \scriptsize(6)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+6	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+7	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+8	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+9	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+10	&	3 \scriptsize(3)	&	5 \scriptsize(5)	&	6 \scriptsize(6)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+11	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+12	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	5 \scriptsize(5)	&	3 \scriptsize(3)	&	3 \scriptsize(3)\\\hline
+13	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+14	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+15	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	2 \scriptsize(2)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+16	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+17	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+18	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+19	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+20	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+21	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+22	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+23	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+24	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+25	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+26	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	3 \scriptsize(3)	&	2 \scriptsize(2)	&	2 \scriptsize(2)\\\hline
+
+
+Profiles ranked with 1 decimal points
+	 Time Ranking:
+		1: 16(1)
+		  : 15(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 20(1)
+		  : 14(1)
+		  : 23(1)
+		  : 24(1)
+		  : 25(1)
+		2: 26(2)
+		3: 3(3)
+		  : 5(3)
+		  : 7(3)
+		  : 9(3)
+		  : 10(3)
+		  : 6(3)
+		  : 4(3)
+		  : 11(3)
+		  : 12(3)
+		  : 2(3)
+		  : 1(3)
+		  : 8(3)
+
+
+	 Energy Ranking:
+		1: 23(1)
+		2: 14(2)
+		  : 24(2)
+		3: 19(3)
+		  : 21(3)
+		4: 17(4)
+		  : 18(4)
+		  : 20(4)
+		5: 16(5)
+		6: 13(6)
+		  : 22(6)
+		  : 25(6)
+		7: 15(7)
+		8: 26(8)
+		9: 8(9)
+		10: 7(10)
+		11: 3(11)
+		  : 9(11)
+		  : 11(11)
+		  : 12(11)
+		12: 2(12)
+		  : 1(12)
+		13: 6(13)
+		14: 4(14)
+		15: 10(15)
+		16: 5(16)
+
+
+	 CPU Ranking:
+		1: 23(1)
+		2: 14(2)
+		  : 24(2)
+		3: 17(3)
+		  : 19(3)
+		  : 21(3)
+		4: 18(4)
+		  : 20(4)
+		5: 16(5)
+		6: 13(6)
+		  : 22(6)
+		  : 25(6)
+		7: 15(7)
+		8: 26(8)
+		9: 8(9)
+		10: 7(10)
+		11: 9(11)
+		12: 3(12)
+		  : 11(12)
+		  : 12(12)
+		13: 2(13)
+		  : 1(13)
+		14: 6(14)
+		15: 4(15)
+		16: 10(16)
+		17: 5(17)
+
+
+	 Memory Ranking:
+		1: 16(1)
+		  : 15(1)
+		  : 17(1)
+		  : 13(1)
+		  : 19(1)
+		  : 22(1)
+		  : 21(1)
+		  : 18(1)
+		  : 20(1)
+		  : 14(1)
+		  : 23(1)
+		  : 24(1)
+		  : 25(1)
+		2: 26(2)
+		3: 5(3)
+		4: 3(4)
+		  : 7(4)
+		  : 9(4)
+		  : 10(4)
+		  : 6(4)
+		  : 4(4)
+		  : 11(4)
+		  : 12(4)
+		  : 2(4)
+		  : 1(4)
+		  : 8(4)
+
+
+	 Energy/Time Ranking:
+		1: 23(1)
+		2: 19(2)
+		  : 21(2)
+		  : 14(2)
+		  : 24(2)
+		3: 16(3)
+		  : 17(3)
+		  : 18(3)
+		  : 20(3)
+		4: 15(4)
+		  : 13(4)
+		  : 22(4)
+		  : 25(4)
+		5: 26(5)
+		6: 8(6)
+		7: 7(7)
+		8: 3(8)
+		  : 9(8)
+		  : 6(8)
+		  : 11(8)
+		  : 12(8)
+		  : 2(8)
+		  : 1(8)
+		9: 5(9)
+		  : 10(9)
+		  : 4(9)
+
+
+
+LaTeX Table
+\thead{\textbf{Profile ID}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+1	&	3 \scriptsize(3)	&	12 \scriptsize(12)	&	13 \scriptsize(13)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+2	&	3 \scriptsize(3)	&	12 \scriptsize(12)	&	13 \scriptsize(13)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+3	&	3 \scriptsize(3)	&	11 \scriptsize(11)	&	12 \scriptsize(12)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+4	&	3 \scriptsize(3)	&	14 \scriptsize(14)	&	15 \scriptsize(15)	&	4 \scriptsize(4)	&	9 \scriptsize(9)\\\hline
+5	&	3 \scriptsize(3)	&	16 \scriptsize(16)	&	17 \scriptsize(17)	&	3 \scriptsize(3)	&	9 \scriptsize(9)\\\hline
+6	&	3 \scriptsize(3)	&	13 \scriptsize(13)	&	14 \scriptsize(14)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+7	&	3 \scriptsize(3)	&	10 \scriptsize(10)	&	10 \scriptsize(10)	&	4 \scriptsize(4)	&	7 \scriptsize(7)\\\hline
+8	&	3 \scriptsize(3)	&	9 \scriptsize(9)	&	9 \scriptsize(9)	&	4 \scriptsize(4)	&	6 \scriptsize(6)\\\hline
+9	&	3 \scriptsize(3)	&	11 \scriptsize(11)	&	11 \scriptsize(11)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+10	&	3 \scriptsize(3)	&	15 \scriptsize(15)	&	16 \scriptsize(16)	&	4 \scriptsize(4)	&	9 \scriptsize(9)\\\hline
+11	&	3 \scriptsize(3)	&	11 \scriptsize(11)	&	12 \scriptsize(12)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+12	&	3 \scriptsize(3)	&	11 \scriptsize(11)	&	12 \scriptsize(12)	&	4 \scriptsize(4)	&	8 \scriptsize(8)\\\hline
+13	&	1 \scriptsize(1)	&	6 \scriptsize(6)	&	6 \scriptsize(6)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+14	&	1 \scriptsize(1)	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	1 \scriptsize(1)	&	2 \scriptsize(2)\\\hline
+15	&	1 \scriptsize(1)	&	7 \scriptsize(7)	&	7 \scriptsize(7)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+16	&	1 \scriptsize(1)	&	5 \scriptsize(5)	&	5 \scriptsize(5)	&	1 \scriptsize(1)	&	3 \scriptsize(3)\\\hline
+17	&	1 \scriptsize(1)	&	4 \scriptsize(4)	&	3 \scriptsize(3)	&	1 \scriptsize(1)	&	3 \scriptsize(3)\\\hline
+18	&	1 \scriptsize(1)	&	4 \scriptsize(4)	&	4 \scriptsize(4)	&	1 \scriptsize(1)	&	3 \scriptsize(3)\\\hline
+19	&	1 \scriptsize(1)	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	1 \scriptsize(1)	&	2 \scriptsize(2)\\\hline
+20	&	1 \scriptsize(1)	&	4 \scriptsize(4)	&	4 \scriptsize(4)	&	1 \scriptsize(1)	&	3 \scriptsize(3)\\\hline
+21	&	1 \scriptsize(1)	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	1 \scriptsize(1)	&	2 \scriptsize(2)\\\hline
+22	&	1 \scriptsize(1)	&	6 \scriptsize(6)	&	6 \scriptsize(6)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+23	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+24	&	1 \scriptsize(1)	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	1 \scriptsize(1)	&	2 \scriptsize(2)\\\hline
+25	&	1 \scriptsize(1)	&	6 \scriptsize(6)	&	6 \scriptsize(6)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+26	&	2 \scriptsize(2)	&	8 \scriptsize(8)	&	8 \scriptsize(8)	&	2 \scriptsize(2)	&	5 \scriptsize(5)\\\hline
+
+
+Profiles ranked with 2 decimal points
+	 Time Ranking:
+		1: 18(1)
+		  : 22(1)
+		  : 21(1)
+		  : 20(1)
+		  : 16(1)
+		  : 15(1)
+		  : 13(1)
+		  : 19(1)
+		  : 17(1)
+		  : 14(1)
+		  : 23(1)
+		  : 24(1)
+		  : 25(1)
+		2: 26(2)
+		3: 6(3)
+		  : 4(3)
+		  : 7(3)
+		  : 5(3)
+		  : 3(3)
+		  : 9(3)
+		  : 12(3)
+		  : 1(3)
+		  : 8(3)
+		  : 11(3)
+		4: 10(4)
+		  : 2(4)
+
+
+	 Energy Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		5: 19(5)
+		6: 17(6)
+		7: 18(7)
+		8: 20(8)
+		9: 16(9)
+		10: 25(10)
+		11: 22(11)
+		  : 13(11)
+		12: 15(12)
+		13: 26(13)
+		14: 8(14)
+		15: 7(15)
+		16: 9(16)
+		17: 11(17)
+		18: 12(18)
+		19: 3(19)
+		20: 1(20)
+		21: 2(21)
+		22: 6(22)
+		23: 4(23)
+		24: 10(24)
+		25: 5(25)
+
+
+	 CPU Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		5: 19(5)
+		6: 17(6)
+		7: 18(7)
+		8: 20(8)
+		9: 16(9)
+		10: 25(10)
+		11: 22(11)
+		  : 13(11)
+		12: 15(12)
+		13: 26(13)
+		14: 8(14)
+		15: 7(15)
+		16: 9(16)
+		17: 11(17)
+		18: 12(18)
+		19: 3(19)
+		20: 1(20)
+		21: 2(21)
+		22: 6(22)
+		23: 4(23)
+		24: 10(24)
+		25: 5(25)
+
+
+	 Memory Ranking:
+		1: 18(1)
+		  : 22(1)
+		  : 21(1)
+		  : 20(1)
+		  : 16(1)
+		  : 15(1)
+		  : 13(1)
+		  : 19(1)
+		  : 17(1)
+		  : 14(1)
+		  : 23(1)
+		  : 24(1)
+		  : 25(1)
+		2: 26(2)
+		3: 6(3)
+		  : 10(3)
+		  : 4(3)
+		  : 7(3)
+		  : 5(3)
+		  : 3(3)
+		  : 9(3)
+		  : 12(3)
+		  : 1(3)
+		  : 8(3)
+		  : 2(3)
+		  : 11(3)
+
+
+	 Energy/Time Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		  : 19(4)
+		5: 17(5)
+		6: 18(6)
+		7: 20(7)
+		8: 16(8)
+		9: 25(9)
+		10: 13(10)
+		11: 22(11)
+		12: 15(12)
+		13: 26(13)
+		14: 8(14)
+		15: 7(15)
+		16: 9(16)
+		17: 3(17)
+		  : 12(17)
+		  : 11(17)
+		18: 1(18)
+		  : 2(18)
+		19: 6(19)
+		20: 4(20)
+		21: 10(21)
+		22: 5(22)
+
+
+
+LaTeX Table
+\thead{\textbf{Profile ID}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+1	&	3 \scriptsize(3)	&	20 \scriptsize(20)	&	20 \scriptsize(20)	&	3 \scriptsize(3)	&	18 \scriptsize(18)\\\hline
+2	&	4 \scriptsize(4)	&	21 \scriptsize(21)	&	21 \scriptsize(21)	&	3 \scriptsize(3)	&	18 \scriptsize(18)\\\hline
+3	&	3 \scriptsize(3)	&	19 \scriptsize(19)	&	19 \scriptsize(19)	&	3 \scriptsize(3)	&	17 \scriptsize(17)\\\hline
+4	&	3 \scriptsize(3)	&	23 \scriptsize(23)	&	23 \scriptsize(23)	&	3 \scriptsize(3)	&	20 \scriptsize(20)\\\hline
+5	&	3 \scriptsize(3)	&	25 \scriptsize(25)	&	25 \scriptsize(25)	&	3 \scriptsize(3)	&	22 \scriptsize(22)\\\hline
+6	&	3 \scriptsize(3)	&	22 \scriptsize(22)	&	22 \scriptsize(22)	&	3 \scriptsize(3)	&	19 \scriptsize(19)\\\hline
+7	&	3 \scriptsize(3)	&	15 \scriptsize(15)	&	15 \scriptsize(15)	&	3 \scriptsize(3)	&	15 \scriptsize(15)\\\hline
+8	&	3 \scriptsize(3)	&	14 \scriptsize(14)	&	14 \scriptsize(14)	&	3 \scriptsize(3)	&	14 \scriptsize(14)\\\hline
+9	&	3 \scriptsize(3)	&	16 \scriptsize(16)	&	16 \scriptsize(16)	&	3 \scriptsize(3)	&	16 \scriptsize(16)\\\hline
+10	&	4 \scriptsize(4)	&	24 \scriptsize(24)	&	24 \scriptsize(24)	&	3 \scriptsize(3)	&	21 \scriptsize(21)\\\hline
+11	&	3 \scriptsize(3)	&	17 \scriptsize(17)	&	17 \scriptsize(17)	&	3 \scriptsize(3)	&	17 \scriptsize(17)\\\hline
+12	&	3 \scriptsize(3)	&	18 \scriptsize(18)	&	18 \scriptsize(18)	&	3 \scriptsize(3)	&	17 \scriptsize(17)\\\hline
+13	&	1 \scriptsize(1)	&	11 \scriptsize(11)	&	11 \scriptsize(11)	&	1 \scriptsize(1)	&	10 \scriptsize(10)\\\hline
+14	&	1 \scriptsize(1)	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	1 \scriptsize(1)	&	2 \scriptsize(2)\\\hline
+15	&	1 \scriptsize(1)	&	12 \scriptsize(12)	&	12 \scriptsize(12)	&	1 \scriptsize(1)	&	12 \scriptsize(12)\\\hline
+16	&	1 \scriptsize(1)	&	9 \scriptsize(9)	&	9 \scriptsize(9)	&	1 \scriptsize(1)	&	8 \scriptsize(8)\\\hline
+17	&	1 \scriptsize(1)	&	6 \scriptsize(6)	&	6 \scriptsize(6)	&	1 \scriptsize(1)	&	5 \scriptsize(5)\\\hline
+18	&	1 \scriptsize(1)	&	7 \scriptsize(7)	&	7 \scriptsize(7)	&	1 \scriptsize(1)	&	6 \scriptsize(6)\\\hline
+19	&	1 \scriptsize(1)	&	5 \scriptsize(5)	&	5 \scriptsize(5)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+20	&	1 \scriptsize(1)	&	8 \scriptsize(8)	&	8 \scriptsize(8)	&	1 \scriptsize(1)	&	7 \scriptsize(7)\\\hline
+21	&	1 \scriptsize(1)	&	4 \scriptsize(4)	&	4 \scriptsize(4)	&	1 \scriptsize(1)	&	4 \scriptsize(4)\\\hline
+22	&	1 \scriptsize(1)	&	11 \scriptsize(11)	&	11 \scriptsize(11)	&	1 \scriptsize(1)	&	11 \scriptsize(11)\\\hline
+23	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+24	&	1 \scriptsize(1)	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	1 \scriptsize(1)	&	3 \scriptsize(3)\\\hline
+25	&	1 \scriptsize(1)	&	10 \scriptsize(10)	&	10 \scriptsize(10)	&	1 \scriptsize(1)	&	9 \scriptsize(9)\\\hline
+26	&	2 \scriptsize(2)	&	13 \scriptsize(13)	&	13 \scriptsize(13)	&	2 \scriptsize(2)	&	13 \scriptsize(13)\\\hline
+
+
+Profiles ranked with 3 decimal points
+	 Time Ranking:
+		1: 16(1)
+		  : 15(1)
+		2: 17(2)
+		  : 19(2)
+		  : 20(2)
+		  : 18(2)
+		  : 23(2)
+		3: 22(3)
+		  : 21(3)
+		  : 24(3)
+		  : 14(3)
+		4: 13(4)
+		5: 25(5)
+		6: 26(6)
+		7: 5(7)
+		8: 7(8)
+		  : 6(8)
+		  : 11(8)
+		9: 4(9)
+		  : 1(9)
+		  : 12(9)
+		10: 9(10)
+		  : 3(10)
+		  : 8(10)
+		11: 10(11)
+		12: 2(12)
+
+
+	 Energy Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		5: 19(5)
+		6: 17(6)
+		7: 18(7)
+		8: 20(8)
+		9: 16(9)
+		10: 25(10)
+		11: 13(11)
+		12: 22(12)
+		13: 15(13)
+		14: 26(14)
+		15: 8(15)
+		16: 7(16)
+		17: 9(17)
+		18: 11(18)
+		19: 12(19)
+		20: 3(20)
+		21: 1(21)
+		22: 2(22)
+		23: 6(23)
+		24: 4(24)
+		25: 10(25)
+		26: 5(26)
+
+
+	 CPU Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		5: 19(5)
+		6: 17(6)
+		7: 18(7)
+		8: 20(8)
+		9: 16(9)
+		10: 25(10)
+		11: 13(11)
+		12: 22(12)
+		13: 15(13)
+		14: 26(14)
+		15: 8(15)
+		16: 7(16)
+		17: 9(17)
+		18: 11(18)
+		19: 12(19)
+		20: 3(20)
+		21: 1(21)
+		22: 2(22)
+		23: 6(23)
+		24: 4(24)
+		25: 10(25)
+		26: 5(26)
+
+
+	 Memory Ranking:
+		1: 17(1)
+		  : 16(1)
+		  : 15(1)
+		  : 23(1)
+		2: 19(2)
+		  : 20(2)
+		  : 22(2)
+		  : 21(2)
+		  : 18(2)
+		  : 24(2)
+		  : 14(2)
+		3: 13(3)
+		4: 25(4)
+		5: 26(5)
+		6: 5(6)
+		7: 7(7)
+		  : 6(7)
+		  : 11(7)
+		8: 9(8)
+		  : 3(8)
+		  : 4(8)
+		  : 1(8)
+		  : 8(8)
+		  : 12(8)
+		9: 10(9)
+		  : 2(9)
+
+
+	 Energy/Time Ranking:
+		1: 23(1)
+		2: 14(2)
+		3: 24(3)
+		4: 21(4)
+		5: 19(5)
+		6: 17(6)
+		7: 18(7)
+		8: 20(8)
+		9: 16(9)
+		10: 25(10)
+		11: 13(11)
+		12: 22(12)
+		13: 15(13)
+		14: 26(14)
+		15: 8(15)
+		16: 7(16)
+		17: 9(17)
+		18: 3(18)
+		19: 11(19)
+		  : 12(19)
+		20: 2(20)
+		21: 1(21)
+		22: 6(22)
+		23: 4(23)
+		24: 10(24)
+		25: 5(25)
+
+
+
+LaTeX Table
+\thead{\textbf{Profile ID}} & \thead{\textbf{Execution Time \scriptsize(s)}} & \thead{\textbf{Total Energy \scriptsize(J)}} & \thead{\textbf{CPU Energy \scriptsize(J)}} & \thead{\textbf{Memory Energy \scriptsize(J)}} & \thead{\textbf{Energy/Time \scriptsize(J/s)}}\\\hline
+1	&	9 \scriptsize(9)	&	21 \scriptsize(21)	&	21 \scriptsize(21)	&	8 \scriptsize(8)	&	21 \scriptsize(21)\\\hline
+2	&	12 \scriptsize(12)	&	22 \scriptsize(22)	&	22 \scriptsize(22)	&	9 \scriptsize(9)	&	20 \scriptsize(20)\\\hline
+3	&	10 \scriptsize(10)	&	20 \scriptsize(20)	&	20 \scriptsize(20)	&	8 \scriptsize(8)	&	18 \scriptsize(18)\\\hline
+4	&	9 \scriptsize(9)	&	24 \scriptsize(24)	&	24 \scriptsize(24)	&	8 \scriptsize(8)	&	23 \scriptsize(23)\\\hline
+5	&	7 \scriptsize(7)	&	26 \scriptsize(26)	&	26 \scriptsize(26)	&	6 \scriptsize(6)	&	25 \scriptsize(25)\\\hline
+6	&	8 \scriptsize(8)	&	23 \scriptsize(23)	&	23 \scriptsize(23)	&	7 \scriptsize(7)	&	22 \scriptsize(22)\\\hline
+7	&	8 \scriptsize(8)	&	16 \scriptsize(16)	&	16 \scriptsize(16)	&	7 \scriptsize(7)	&	16 \scriptsize(16)\\\hline
+8	&	10 \scriptsize(10)	&	15 \scriptsize(15)	&	15 \scriptsize(15)	&	8 \scriptsize(8)	&	15 \scriptsize(15)\\\hline
+9	&	10 \scriptsize(10)	&	17 \scriptsize(17)	&	17 \scriptsize(17)	&	8 \scriptsize(8)	&	17 \scriptsize(17)\\\hline
+10	&	11 \scriptsize(11)	&	25 \scriptsize(25)	&	25 \scriptsize(25)	&	9 \scriptsize(9)	&	24 \scriptsize(24)\\\hline
+11	&	8 \scriptsize(8)	&	18 \scriptsize(18)	&	18 \scriptsize(18)	&	7 \scriptsize(7)	&	19 \scriptsize(19)\\\hline
+12	&	9 \scriptsize(9)	&	19 \scriptsize(19)	&	19 \scriptsize(19)	&	8 \scriptsize(8)	&	19 \scriptsize(19)\\\hline
+13	&	4 \scriptsize(4)	&	11 \scriptsize(11)	&	11 \scriptsize(11)	&	3 \scriptsize(3)	&	11 \scriptsize(11)\\\hline
+14	&	3 \scriptsize(3)	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	2 \scriptsize(2)	&	2 \scriptsize(2)\\\hline
+15	&	1 \scriptsize(1)	&	13 \scriptsize(13)	&	13 \scriptsize(13)	&	1 \scriptsize(1)	&	13 \scriptsize(13)\\\hline
+16	&	1 \scriptsize(1)	&	9 \scriptsize(9)	&	9 \scriptsize(9)	&	1 \scriptsize(1)	&	9 \scriptsize(9)\\\hline
+17	&	2 \scriptsize(2)	&	6 \scriptsize(6)	&	6 \scriptsize(6)	&	1 \scriptsize(1)	&	6 \scriptsize(6)\\\hline
+18	&	2 \scriptsize(2)	&	7 \scriptsize(7)	&	7 \scriptsize(7)	&	2 \scriptsize(2)	&	7 \scriptsize(7)\\\hline
+19	&	2 \scriptsize(2)	&	5 \scriptsize(5)	&	5 \scriptsize(5)	&	2 \scriptsize(2)	&	5 \scriptsize(5)\\\hline
+20	&	2 \scriptsize(2)	&	8 \scriptsize(8)	&	8 \scriptsize(8)	&	2 \scriptsize(2)	&	8 \scriptsize(8)\\\hline
+21	&	3 \scriptsize(3)	&	4 \scriptsize(4)	&	4 \scriptsize(4)	&	2 \scriptsize(2)	&	4 \scriptsize(4)\\\hline
+22	&	3 \scriptsize(3)	&	12 \scriptsize(12)	&	12 \scriptsize(12)	&	2 \scriptsize(2)	&	12 \scriptsize(12)\\\hline
+23	&	2 \scriptsize(2)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)	&	1 \scriptsize(1)\\\hline
+24	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	3 \scriptsize(3)	&	2 \scriptsize(2)	&	3 \scriptsize(3)\\\hline
+25	&	5 \scriptsize(5)	&	10 \scriptsize(10)	&	10 \scriptsize(10)	&	4 \scriptsize(4)	&	10 \scriptsize(10)\\\hline
+26	&	6 \scriptsize(6)	&	14 \scriptsize(14)	&	14 \scriptsize(14)	&	5 \scriptsize(5)	&	14 \scriptsize(14)\\\hline
+
+

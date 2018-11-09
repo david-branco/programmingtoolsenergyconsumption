@@ -1,0 +1,10 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/binarytrees'
+gcc -pipe -O2 -g -Wall -W -fPIC -I/usr/include/apr-1.0 -o binarytrees binarytrees.c -lapr-1
+binarytrees.c: In function ‘main’:
+binarytrees.c:101:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+    #pragma omp parallel for
+ 
+binarytrees.c:61:14: warning: parameter ‘argc’ set but not used [-Wunused-but-set-parameter]
+ int main(int argc, char ** argv){
+              ^~~~
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/binarytrees'

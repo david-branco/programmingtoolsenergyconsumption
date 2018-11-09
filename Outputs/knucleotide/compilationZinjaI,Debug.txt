@@ -1,0 +1,12 @@
+make: Entering directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'
+gcc -fshow-column -fno-diagnostics-show-caret -g2 -Wall -O0 -o knucleotide knucleotide.c
+knucleotide.c: In function ‘main’:
+knucleotide.c:223:0: warning: ignoring #pragma omp parallel [-Wunknown-pragmas]
+knucleotide.c:225:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:228:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:231:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:234:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:237:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:241:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+knucleotide.c:244:0: warning: ignoring #pragma omp section [-Wunknown-pragmas]
+make: Leaving directory '/home/db/Dropbox/MEI/benchIDE/Source_Files/knucleotide'
